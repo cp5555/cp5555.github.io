@@ -254,7 +254,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Page generated |, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+  Updated: |.
 
   [sourcelink]
   (<a href="|">source</a>)
@@ -1628,7 +1628,7 @@ def main():
       thisout = outname
 
     infile = io.open(inname, 'rb')
-    outfile = io.open(thisout, 'w', encoding="utf-8")
+    outfile = io.open(thisout, 'w')
 
 #    print(infile.read())
     f = controlstruct(infile, outfile, conf, inname)
