@@ -1,0 +1,172 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications
+Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
+
+== Conferences 
+. *RuleCache: Accelerating Web Application Firewalls by On-line Learning Traffic Patterns* \n
+  Xiaoyi Chen, Qingni Shen, /Peng Cheng/, Yongqiang Xiong and Zhonghai Wu \n
+  IEEE ICWS 2022.
+
+. [publications/pilotfish-atc22.pdf *PilotFish: Harvesting Free Cycles of Cloud Gaming with Deep Learning Training*] \n
+  Wei Zhang, Binghao Chen, Zhenhua Han, Quan Chen, /Peng Cheng/, Fan Yang, Ran Shu, Yuqing Yang, and Minyi Guo \n
+  USENIX ATC 2022.
+
+. [publications/moneo-icc22.pdf *Moneo: Non-intrusive Fine-grained Monitor for AI Infrastructure*] \n
+  Yuting Jiang, Yifan Xiong, Lei Qu, Cheng Luo, Chen Tian, /Peng Cheng/, and Yongqiang Xiong \n
+  IEEE ICC 2022.
+
+. [https://ieeexplore.ieee.org/document/9488734 *NFD: Using Behavior Models to Develop Cross-Platform Network Functions*] \n
+  Hongyi Huang, Wenfei Wu, Yongchao He, Bangwen Deng, Ying Zhang, Yongqiang Xiong, Guo Chen, Yong Cui, and /Peng Cheng/ \n
+  IEEE INFOCOM 2021.
+
+. [https://dl.acm.org/doi/10.1145/3337821.3337892 *Dlbooster: Boosting End-to-end Deep Learning Workflows with Offloading Data Preprocessing Pipelines*] \n
+  Yang Cheng, Dan Li, Zhiyuan Guo, Binyao Jiang, Jiaxin Lin, Xi Fan, Jinkun Geng, Xinyi Yu, Wei Bai, Lei Qu, Ran Shu, /Peng Cheng/, Yongqiang Xiong, and Jianping Wu \n
+  ICPP 2019.
+
+. [https://www.usenix.org/conference/nsdi19/presentation/shu *Direct Universal Access: Making Data Center Resources Available to FPGA*] \n
+  Ran Shu, /Peng Cheng/, Guo Chen, Zhiyuan Guo, Lei Qu, Yongqiang Xiong, Derek Chiou, and Thomas Moscibroda \n
+  USENIX NSDI 2019.
+
+. [https://ieeexplore.ieee.org/document/8526807 *Micro-Burst in Data Centers: Observations, Analysis, and Mitigations*] \n
+  Danfeng Shan, Fengyuan Ren, /Peng Cheng/, Ran Shu, and Chuanxiong Guo \n
+  IEEE ICNP 2018.
+
+. [https://www.usenix.org/conference/nsdi18/presentation/lu *Multi-Path Transport for RDMA in Datacenters*] \n
+  Yuanwei Lu, Guo Chen, Bojie Li, Kun Tan, Yongqiang Xiong, /Peng Cheng/, Jiansong Zhang, Enhong Chen, and Thomas Moscibroda \n
+  USENIX NSDI 2018.
+
+. [https://ieeexplore.ieee.org/document/8672493 *Tagger: Practical PFC Deadlock Prevention in Data Center Networks*] \n
+  Shuihai Hu, Yibo Zhu, /Peng Cheng/, Chuanxiong Guo, Kun Tan, Jitendra Padhye, and Kai Chen \n
+  ACM CoNEXT 2017.
+
+. [https://ieeexplore.ieee.org/document/7969172 *Performance Analysis of Randomized Data Fetching in Cluster Computing*] \n
+  Tong Zhang, /Peng Cheng/, Wenxue Chen, Bo Wang, and Fengyuan Ren \n
+  IEEE IWQos 2017.
+
+. [https://dl.acm.org/doi/10.1145/2934872.2934897 *ClickNP: Highly flexible and High-performance Network Processing with Reconfigurable Hardware*] \n
+  Bojie Li, Kun Tan, Layong Larry Luo, Yanqing Peng, Renqian Luo, Ningyi Xu, Yongqiang Xiong, and /Peng Cheng/ \n
+  ACM SIGCOMM 2016.
+
+. [https://www.usenix.org/conference/atc16/technical-sessions/presentation/chen *Fast and Cautious: Leveraging Multi-path Diversity for Transport Loss Recovery in Data Centers*] \n
+  Guo Chen, Yuanwei Lu, Yuan Meng, Bojie Li, Kun Tan, Dan Pei, /Peng Cheng/, Layong Larry Luo, Yongqiang Xiong, Xiaoliang Wang, and Youjian Zhao \n
+  USENIX ATC 2016.
+
+. [https://dl.acm.org/doi/10.1145/2901318.2901336 *TFC: Token Flow Control in Data Center Networks*] \n
+  Jiao Zhang, Fengyuan Ren, Ran Shu, and /Peng Cheng/ \n
+  EuroSys 2016.
+
+. [https://ieeexplore.ieee.org/abstract/document/7349624 *Slowing Little Quickens More: Improving DCTCP for Massive Concurrent Flows*] \n
+  Mao Miao, /Peng Cheng/, Fengyuan Ren, and Ran Shu \n
+  ICPP 2015.
+
+. [https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/cheng *Catch the Whole Lot in an Action: Rapid Precise Packet Loss Notification in Data Center*] \n
+  /Peng Cheng/, Fengyuan Ren, Ran Shu, Chuang Lin \n
+  USENIX NSDI 2014.
+
+. [https://ieeexplore.ieee.org/abstract/document/6972383 *Congestion Integrated Control in Virtualized Clouds*] \n
+  Yumeng Zhang, Fengyuan Ren, /Peng Cheng/, Mao Miao, and Chuang Lin \n
+  IEEE PIC 2014.
+
+. [https://ieeexplore.ieee.org/abstract/document/6681614 *Ease the Queue Oscillation: Analysis and Enhancement of DCTCP*] \n
+  Wen Chen, /Peng Cheng/, Fengyuan Ren, Ran Shu, and Chuang Lin \n
+  IEEE ICDCS 2013.
+
+. [publications/sbx-icccn13.pdf *Access Points Can Tell More for Wiser Selection*] \n
+  Shibo Xu, Fengyuan Ren, Yinsheng Xu, /Peng Cheng/, and Chuang Lin \n
+  IEEE ICCCN 2013.
+
+== Workshops
+. [publications/opennetlab-apnet22.pdf *OpenNetLab: Open Platform for RL-based Congestion Control for Real-Time Communications*] \n
+  Jeongyoon Eo, Zhixiong Niu, Wenxue Cheng, Francis Y. Yan, Rui Gao, Jorina Kardhashi, Scott Inglis, Michael Revow, Byung-Gon Chun, /Peng Cheng/, and Yongqiang Xiong \n
+  APNet 2022. [https://conferences.sigcomm.org/events/apnet2022/index.html *{{<font color="crimson">(Best Paper Award)</font>}}*]
+
+. [publications/alt-apnet22.pdf *A Disaggregate Data Collecting Approach for Loss-Tolerant Applications*] \n
+  Ziyuan Liu, Zhixiong Niu, Ran Shu, Wenxue Cheng, /Peng Cheng/, Yongqiang Xiong, Lihua Yuan, Jacob Nelson, and Dan R. K. Ports \n
+  APNet 2022.
+
+. [publications/ark-mlarchsys22.pdf *Towards GPU-driven Code Execution for Distributed Deep Learning*] \n
+  Changho Hwang, KyoungSoo Park, Ran Shu, Xinyuan Qu, /Peng Cheng/, and Yongqiang Xiong \n
+  ISCA 2022 Workshop MLArchSys. [https://sites.google.com/view/mlarchsys/isca-2022/accepted-papers *{{<font color="crimson">(Best Paper Award)</font>}}*]
+
+. [https://dl.acm.org/doi/10.1145/3476886.3477515 *Accelerating GNN Training with Locality-aware Partial Execution*] \n
+  Taehyun Kim, Changho Hwang, KyoungSoo Park, Zhiqi Lin, /Peng Cheng/, Youshan Miao, Lingxiao Ma, and Yongqiang Xiong \n
+  ACM APSys 2021. [https://i.cs.hku.hk/apsys2021/program.html *{{<font color="crimson">(Best Paper Award)</font>}}*]
+
+. [https://dl.acm.org/doi/10.1145/3476886.3477512 *Enhanced Control Path for Repeated TCP Connections*] \n
+  Junho Lee, Gyeongsik Yang, Zhixiong Niu, /Peng Cheng/, Yongqiang Xiong, and Chuck Yoo \n
+  ACM APSys 2021.
+
+. [https://dl.acm.org/doi/abs/10.1145/3476886.3477509 *Towards User-defined SLA in Cloud Flash Storage*] \n
+  Jinhao Fan, Ziyue Yang, Ran Shu, /Peng Cheng/, and Yongqiang Xiong \n
+  ACM APSys 2021.
+
+. [https://dl.acm.org/doi/10.1145/3152434.3152442 *Network Stack as a Service in the Cloud*] \n
+  Zhixiong Niu, Hong Xu, Dongsu Han, /Peng Cheng/, Yongqiang Xiong, Guo Chen, and Keith Winstein \n
+  ACM Hotnets 2017.
+
+. [https://dl.acm.org/doi/abs/10.1145/3106989.3106993 *Memory Efficient Loss Recovery for Hardware-based Transport in Datacenter*] \n
+  Yuanwei Lu, Guo Chen, Zhenyuan Ruan, Wencong Xiao, Bojie Li, Jiansong Zhang, Yongqiang Xiong, /Peng Cheng/, and Enhong Chen \n
+  APNet 2017.
+  
+. [https://dl.acm.org/doi/10.1145/3124680.3124743 *The Feniks FPGA Operating System for Cloud Computing*] \n
+  Jiansong Zhang, Yongqiang Xiong, Ningyi Xu, Ran Shu, Bojie Li, /Peng Cheng/, Guo Chen, and Thomas Moscibroda \n
+  APSys 2017.
+
+. [https://dl.acm.org/doi/10.1145/3005745.3005760 *Deadlocks in Datacenter Networks: Why Do They Form, and How to Avoid Them*] \n
+  Shuihai Hu, Yibo Zhu, /Peng Cheng/, Chuanxiong Guo, Kun Tan, Jitendra Padhye, and Kai Chen \n
+  ACM Hotnets 2016.
+
+== Journals
+. [https://dl.acm.org/doi/abs/10.1145/3544497.3544501 *Moneo: Non-intrusive Fine-grained Monitor for AI Infrastructure*] \n
+  Yuting Jiang, Yifan Xiong, Lei Qu, Cheng Luo, Chen Tian, /Peng Cheng/, and Yongqiang Xiong \n
+  ACM SIGOPS Operating Systems Review 2022.
+
+. [https://ieeexplore.ieee.org/document/9634844 *NetKernel: Making Network Stack Part of the Virtualized Infrastructure*] \n
+  Zhixiong Niu, Qiang Su, /Peng Cheng/, Yongqiang Xiong, Dongsu Han, Keith Winstein, Chun Jason Xue, and Hong Xu \n
+  IEEE/ACM Transactions on Networking 2021.
+
+. [https://ieeexplore.ieee.org/document/8930612 *Observing and Mitigating Micro-Burst Traffic in Data Center Networks*] \n
+  Danfeng Shan, Fengyuan Ren, /Peng Cheng/, Ran Shu, and Chuanxiong Guo \n
+  IEEE/ACM Transactions on Networking 2019.
+  
+. [https://ieeexplore.ieee.org/document/8895760 *MP-RDMA: Enabling RDMA With Multi-Path Transport in Datacenters*] \n
+  Guo Chen, Yuanwei Lu, Bojie Li, Kun Tan, Yongqiang Xiong, /Peng Cheng/, Jiansong Zhang, and Thomas Moscibroda \n
+  IEEE/ACM Transactions on Networking 2019.
+
+. [https://ieeexplore.ieee.org/document/8358067 *Fuso: Fast Multi-path Loss Recovery for Data Center Networks*] \n
+  Guo Chen, Yuanwei Lu, Yuan Meng, Bojie Li, Kun Tan, Dan Pei, /Peng Cheng/, Layong Luo, Yongqiang Xiong, Xiaoliang Wang, and Youjian Zhao \n
+  IEEE/ACM Transactions on Networking 2018.
+
+. [https://ieeexplore.ieee.org/abstract/document/7173011 *An Energy Efficiency Perspective on Rate Adaptation for 802.11 n NIC*] \n
+  Chi-Yu Li, Chunyi Peng, /Peng Cheng/, Songwu Lu, Xinbing Wang, Fengyuan Ren, and Tao Wang \n
+  IEEE Transactions on Mobile Computing 2015.
+
+== Posters and Demos 
+. *PipeDevice: A Hardware-Software Co-Design Approach to Intra-Host Container Communication* \n
+  Qiang Su, Chuanwen Wang, Zhixiong Niu, Ran Shu, /Peng Cheng/, Yongqiang Xiong, Dongsu Han, Chun Jason Xue, and Hong Xu \n
+  ACM SIGCOMM 2022 (Posters and Demos).
+
+. [https://arxiv.org/pdf/2002.06790.pdf *Simulating Performance of ML Systems with Offline Profiling*] \n
+  Hongming Huang, /Peng Cheng/, Hong Xu, and Yongqiang Xiong \n
+  MLOps 2019 (Poster).
+
+. [http://mlforsystems.org/assets/papers/neurips2019/reinforcement_fang_2019.pdf *Reinforcement Learning for Bandwidth Estimation and Congestion Control in Real-time Communications*] \n
+  Joyce Fang, Martin Ellis, Bin Li, Siyao Liu, Yasaman Hosseinkashi, Michael Revow, Albert Sadovnikov, Ziyuan Liu, /Peng Cheng/, Sachin Ashok, David Zhao, Ross Cutler, Yan Lu, and Johannes Gehrke \n
+  NeurIPS 2019 Workshop on Machine Learning for Systems (Poster).
+
+== Patents
+. [https://patentimages.storage.googleapis.com/c8/86/17/a5fa257e614e53/US11308024.pdf *Multi-path RDMA Transmission*] \n
+  Guo Chen, Thomas Moscibroda, /Peng Cheng/, Yuanwei Lu, and Yongqiang Xiong
+  US Patent 11,308,024, 2022/04/19.
+
+. [https://patentimages.storage.googleapis.com/05/db/61/731a6223018844/US11243901.pdf *Communications for Field Programmable Gate Array Device*] \n
+  /Peng Cheng/, Ran Shu, Guo Chen, YongQiang Xiong, Jiansong Zhang, Ningyi Xu, and Thomas Moscibroda \n
+  US Patent 11,042,497, 2022/02/08.
+
+. [https://patentimages.storage.googleapis.com/15/e0/0b/4f33978796aed2/US11042497.pdf *Communication Between Field Programmable Gate Arrays*] \n
+  /Peng Cheng/, Ran Shu, Guo Chen, Yongqiang Xiong, Jiansong Zhang, Ningyi Xu, and Thomas Moscibroda \n
+  US Patent 11,042,497, 2021/06/22.
+  
+. [https://patentimages.storage.googleapis.com/25/17/27/2159588d7bc953/US20200396233A1.pdf *Bot Behavior Detection*] \n
+  Yang Luo, /Peng Cheng/, Yongqiang Xiong, and Qian Li
+  US Patent App. 16/442,819, 2020/12/17.

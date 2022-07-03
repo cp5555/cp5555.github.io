@@ -1,0 +1,51 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+=Peng Cheng
+[https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/ Microsoft Research Asia]
+~~~
+{}{img_left}{picture/bio.png}{alt text}{250}{250}
+*Peng Cheng*\n
+[https://www.microsoft.com/en-us/research/people/pengc/ Principal Researcher]\n 
+[https://www.microsoft.com/en-us/research/group/networking_research_group/ Networking Research Group], \n
+Microsoft Research Asia (MSRA)\n
+\n\n
+Address: No.5 Danlin Street, Haidian District, Beijing, China \n
+E-mail: pengc at microsoft dot com \n
+\[[https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar]\]\[[https://github.com/cp5555 GitHub]\]
+~~~
+
+I'm currently a principal researcher at Microsoft Research Asia (MSRA). 
+I received my Ph.D. in Computer Science and Technology from Tsinghua University in 2015 and B.S. degrees in Software Engineering from Beihang University in 2010. 
+I was as a visiting student in UCLA from September 2013 to September 2014. In 2015, I joined Networking Research Group at MSRA.
+
+~~~
+{}{raw}
+<p style="color:#BB0000";><strong>Please feel free to send me an email if you are interested in full-time research position, internship, or joint ph.D program. </strong></p> 
+~~~
+
+My research interests are in the broad areas of *systems and networking*. My recent work is mainly focusing on: 
+- AI Infrastructure
+- Machine Learning Systems
+- AI for Systems and Networking
+- Cloud Disaggregation
+
+== News
+- *2022/07.* Our paper [publications/opennetlab-apnet22.pdf OpenNetLab] received the *Best Paper Award* at [https://conferences.sigcomm.org/events/apnet2022/program.html APNet 2022]!
+- *2022/06.* Our paper [publications/ark-mlarchsys22.pdf Towards GPU-driven Code Execution for
+Distributed Deep Learning] received the *Best Paper Award* at [https://sites.google.com/view/mlarchsys/isca-2022/accepted-papers MLArchSys 2022]!
+- *2022/05.* [index.html RuleCache] got accepted at ICWS 2022.
+- *2022/04.* [publications/pilotfish-atc22.pdf PilotFish] got accepted at ATC 2022.
+- *2022/04.* [publications/opennetlab-apnet22.pdf OpenNetLab] and [publications/alt-apnet22.pdf ALT] got accepted at APNet 2022.
+- *2022/04.* [publications/moneo-icc22.pdf Moneo] got accepted at ICC 2022 on Jan. and OSR 2022 on Apr..
+
+== Selected Papers ([publications.html Full List])
+- [index.html ICWS'22] RuleCache: Accelerating Web Application Firewalls by On-line Learning Traffic Patterns
+- [publications/pilotfish-atc22.pdf ATC'22] PilotFish: Harvesting Free Cycles of Cloud Gaming with Deep Learning Training
+- [https://ieeexplore.ieee.org/document/9488734 INFOCOM'21] NFD: Using Behavior Models to Develop Cross-Platform Network Functions
+- [https://www.usenix.org/conference/nsdi19/presentation/shu NSDI'19] Direct Universal Access: Making Data Center Resources Available to FPGA
+- [https://ieeexplore.ieee.org/document/8526807 ICNP'18] Micro-Burst in Data Centers: Observations, Analysis, and Mitigations
+- [https://www.usenix.org/conference/nsdi18/presentation/lu NSDI'18] Multi-Path Transport for RDMA in Datacenters
+- [https://ieeexplore.ieee.org/document/8672493 CoNEXT'17] Tagger: Practical PFC Deadlock Prevention in Data Center Networks
+- [https://dl.acm.org/doi/10.1145/2934872.2934897 SIGCOMM'16] ClickNP: Highly flexible and High-performance Network Processing with Reconfigurable Hardware
+- [https://www.usenix.org/conference/atc16/technical-sessions/presentation/chen ATC'16] Fast and Cautious: Leveraging Multi-path Diversity for Transport Loss Recovery in Data Centers
+- [https://dl.acm.org/doi/10.1145/2901318.2901336 EuroSys'16] TFC: Token Flow Control in Data Center Networks
+- [https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/cheng NSDI'14] Catch the Whole Lot in an Action: Rapid Precise Packet Loss Notification in Data Center
