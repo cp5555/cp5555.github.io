@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
+# jemdoc: menu{MENU}{index.html}, title{Peng Cheng - Microsoft Research Asia}, nofooter 
 =Peng Cheng
 [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/ Microsoft Research Asia]
 ~~~
