@@ -31,13 +31,13 @@ My research interests are in the broad areas of *systems and networking*. My rec
 - *2022/07.* Our paper [publications/opennetlab-apnet22.pdf OpenNetLab] received the *Best Paper Award* at [https://conferences.sigcomm.org/events/apnet2022/program.html APNet 2022]!
 - *2022/06.* Our paper [publications/ark-mlarchsys22.pdf Towards GPU-driven Code Execution for
 Distributed Deep Learning] received the *Best Paper Award* at [https://sites.google.com/view/mlarchsys/isca-2022/accepted-papers MLArchSys 2022]!
-- *2022/05.* [index.html RuleCache] got accepted at ICWS 2022.
+- *2022/05.* [publications/rulecache-icws22.pdf RuleCache] got accepted at ICWS 2022.
 - *2022/04.* [publications/pilotfish-atc22.pdf PilotFish] got accepted at ATC 2022.
 - *2022/04.* [publications/opennetlab-apnet22.pdf OpenNetLab] and [publications/alt-apnet22.pdf ALT] got accepted at APNet 2022.
 - *2022/04.* [publications/moneo-icc22.pdf Moneo] got accepted at ICC 2022 on Jan. and OSR 2022 on Apr..
 
 == Selected Papers ([publications.html Full List])
-- [index.html ICWS'22] RuleCache: Accelerating Web Application Firewalls by On-line Learning Traffic Patterns
+- [publications/rulecache-icws22.pdf ICWS'22] RuleCache: Accelerating Web Application Firewalls by On-line Learning Traffic Patterns
 - [publications/pilotfish-atc22.pdf ATC'22] PilotFish: Harvesting Free Cycles of Cloud Gaming with Deep Learning Training
 - [https://ieeexplore.ieee.org/document/9488734 INFOCOM'21] NFD: Using Behavior Models to Develop Cross-Platform Network Functions
 - [https://www.usenix.org/conference/atc20/presentation/niu ATC'20] NetKernel: Making Network Stack Part of the Virtualized Infrastructure
