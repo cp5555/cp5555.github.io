@@ -40,6 +40,7 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - [index.html ICWS'22] RuleCache: Accelerating Web Application Firewalls by On-line Learning Traffic Patterns
 - [publications/pilotfish-atc22.pdf ATC'22] PilotFish: Harvesting Free Cycles of Cloud Gaming with Deep Learning Training
 - [https://ieeexplore.ieee.org/document/9488734 INFOCOM'21] NFD: Using Behavior Models to Develop Cross-Platform Network Functions
+- [https://www.usenix.org/conference/atc20/presentation/niu ATC'20] NetKernel: Making Network Stack Part of the Virtualized Infrastructure
 - [https://www.usenix.org/conference/nsdi19/presentation/shu NSDI'19] Direct Universal Access: Making Data Center Resources Available to FPGA
 - [https://ieeexplore.ieee.org/document/8526807 ICNP'18] Micro-Burst in Data Centers: Observations, Analysis, and Mitigations
 - [https://www.usenix.org/conference/nsdi18/presentation/lu NSDI'18] Multi-Path Transport for RDMA in Datacenters
