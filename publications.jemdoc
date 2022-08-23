@@ -146,7 +146,7 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   IEEE Transactions on Mobile Computing 2015.
 
 == Posters and Demos 
-. *PipeDevice: A Hardware-Software Co-Design Approach to Intra-Host Container Communication* \n
+. [https://qiangsu97.github.io/files/sigcomm22posters-final65.pdf *PipeDevice: A Hardware-Software Co-Design Approach to Intra-Host Container Communication*] \n
   Qiang Su, Chuanwen Wang, Zhixiong Niu, Ran Shu, /Peng Cheng/, Yongqiang Xiong, Dongsu Han, Chun Jason Xue, and Hong Xu \n
   ACM SIGCOMM 2022 (Posters and Demos).
 
@@ -174,3 +174,16 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
 . [https://patentimages.storage.googleapis.com/25/17/27/2159588d7bc953/US20200396233A1.pdf *Bot Behavior Detection*] \n
   Yang Luo, /Peng Cheng/, Yongqiang Xiong, and Qian Li \n
   US Patent App. 16/442,819, 2020/12/17.
+
+== Preprints 
+. [https://arxiv.org/abs/2206.03382 *Tutel: Adaptive Mixture-of-Experts at Scale*] \n
+  Changho Hwang, Wei Cui, Yifan Xiong, Ziyue Yang, Ze Liu, Han Hu, Zilong Wang, Rafael Salas, Jithin Jose, Prabhat Ram, Joe Chau, /Peng Cheng/, Fan Yang, Mao Yang, and Yongqiang Xiong \n
+  arXiv 2022.
+
+. [https://arxiv.org/abs/2103.07974 *CrossoverScheduler: Overlapping Multiple Distributed Training Applications in a Crossover Manner*] \n
+  Cheng Luo, Lei Qu, Youshan Miao, /Peng Cheng/, and Yongqiang Xiong \n
+  arXiv 2021.
+
+. [https://arxiv.org/abs/1903.08074 *BotGraph: Web Bot Detection Based on Sitemap*] \n
+  Yang Luo, Guozhen She, /Peng Cheng/, and Yongqiang Xiong \n
+  arXiv 2019.
