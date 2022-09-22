@@ -2,7 +2,7 @@
 == Publications
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
-== Conferences 
+== Conferences
 . [publications/rulecache-icws22.pdf *RuleCache: Accelerating Web Application Firewalls by On-line Learning Traffic Patterns*] \n
   Xiaoyi Chen, Qingni Shen, /Peng Cheng/, Yongqiang Xiong and Zhonghai Wu \n
   IEEE ICWS 2022.
@@ -92,7 +92,7 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   Changho Hwang, KyoungSoo Park, Ran Shu, Xinyuan Qu, /Peng Cheng/, and Yongqiang Xiong \n
   ISCA 2022 Workshop MLArchSys. [https://sites.google.com/view/mlarchsys/isca-2022/accepted-papers *{{<font color="crimson">(Best Paper Award)</font>}}*]
 
-. [https://dl.acm.org/doi/10.1145/3476886.3477515 *Accelerating GNN Training with Locality-aware Partial Execution*] \n
+. [publications/gnn-apsys21.pdf *Accelerating GNN Training with Locality-aware Partial Execution*] \n
   Taehyun Kim, Changho Hwang, KyoungSoo Park, Zhiqi Lin, /Peng Cheng/, Youshan Miao, Lingxiao Ma, and Yongqiang Xiong \n
   ACM APSys 2021. [https://i.cs.hku.hk/apsys2021/program.html *{{<font color="crimson">(Best Paper Award)</font>}}*]
 
