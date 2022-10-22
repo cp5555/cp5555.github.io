@@ -3,7 +3,7 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
-. [publications.html *An Adaptive Deep RL Method for Non-Stationary Environments with Piecewise Stable Context*] \n
+. [publications/SeCBAD-NeurIPS2022.pdf *An Adaptive Deep RL Method for Non-Stationary Environments with Piecewise Stable Context*] \n
   Xiaoyu Chen, Xiangming Zhu, Yufeng Zheng, Pushi Zhang, Li Zhao, Wenxue Cheng, /Peng Cheng/, Yongqiang Xiong, Tao Qin, Jianyu Chen, and Tie-Yan Liu \n
   NeurIPS 2022.
 
@@ -179,7 +179,15 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   Yang Luo, /Peng Cheng/, Yongqiang Xiong, and Qian Li \n
   US Patent App. 16/442,819, 2020/12/17.
 
-== Preprints 
+== Preprints
+. [publications.html *ElasticFlow: An Elastic Serverless Training Platform for Distributed Deep Learning*] \n
+  Diandian Gu, Yihao Zhao, Yinmin Zhong, Yifan Xiong, Zhenhua Han, /Peng Cheng/, Fan Yang, Gang Huang, Xin Jin, and Xuanzhe Liu \n
+  In Submission to ASPLOS 2022.
+
+. [publications.html *PipeDevice: A Hardware-Software Co-Design Approach to Intra-Host Container Communication*] \n
+  Qiang Su, Chuanwen Wang, Zhixiong Niu, Ran Shu, /Peng Cheng/, Yongqiang Xiong, Dongsu Han, Chun Jason Xue, and Hong Xu \n
+  In Submission to CoNEXT 2022.
+
 . [https://arxiv.org/abs/2206.03382 *Tutel: Adaptive Mixture-of-Experts at Scale*] \n
   Changho Hwang, Wei Cui, Yifan Xiong, Ziyue Yang, Ze Liu, Han Hu, Zilong Wang, Rafael Salas, Jithin Jose, Prabhat Ram, Joe Chau, /Peng Cheng/, Fan Yang, Mao Yang, and Yongqiang Xiong \n
   arXiv 2022.
