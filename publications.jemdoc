@@ -3,6 +3,10 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [publications/pipedevice-conext22.pdf *PipeDevice: A Hardware-Software Co-Design Approach to Intra-Host Container Communication*]\n
+  Qiang Su, Chuanwen Wang, Zhixiong Niu, Ran Shu, /Peng Cheng/, Yongqiang Xiong, Dongsu Han, Chun Jason Xue, and Hong Xu \n
+  CoNEXT 2022.
+
 . [publications/SeCBAD-NeurIPS2022.pdf *An Adaptive Deep RL Method for Non-Stationary Environments with Piecewise Stable Context*] \n
   Xiaoyu Chen, Xiangming Zhu, Yufeng Zheng, Pushi Zhang, Li Zhao, Wenxue Cheng, /Peng Cheng/, Yongqiang Xiong, Tao Qin, Jianyu Chen, and Tie-Yan Liu \n
   NeurIPS 2022.
