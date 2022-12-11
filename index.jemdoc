@@ -28,6 +28,7 @@ My research interests are in the broad areas of *systems and networking*. My rec
 - Cloud Disaggregation
 
 == News
+- *2022/12.* Our paper [index.html ARK] got accepted at NSDI 2023.
 - *2022/11.* Our paper [publications/elasticflow-asplos23.pdf ElasticFlow] got accepted at ASPLOS 2023.
 - *2022/10.* Our paper [publications/pipedevice-conext22.pdf PipeDevice] got accepted at CoNEXT 2022.
 - *2022/09.* Our paper [publications/SeCBAD-NeurIPS2022.pdf SeCBAD] got accepted at NeurIPS 2022.
@@ -40,6 +41,7 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - *2022/04.* [publications/moneo-icc22.pdf Moneo] got accepted at ICC 2022 and OSR 2022.
 
 == Selected Papers ([publications.html Full List])
+- [index.html NSDI'23] ARK: GPU-driven Code Execution for Distributed Deep Learning
 - [publications/elasticflow-asplos23.pdf ASPLOS'23] ElasticFlow: An Elastic Serverless Training Platform for Distributed Deep Learning
 - [publications/pipedevice-conext22.pdf CoNEXT'22] PipeDevice: A Hardware-Software Co-Design Approach to Intra-Host Container Communication
 - [publications/SeCBAD-NeurIPS2022.pdf NeurIPS'22] An Adaptive Deep RL Method for Non-Stationary Environments with Piecewise Stable Context

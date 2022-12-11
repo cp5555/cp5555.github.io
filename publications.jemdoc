@@ -3,6 +3,10 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [publications.html *ARK: GPU-driven Code Execution for Distributed Deep Learning*] \n
+  Changho Hwang, KyoungSoo Park, Ran Shu, Xinyuan Qu, /Peng Cheng/, and Yongqiang Xiong \n
+  NSDI 2023.
+
 . [publications/elasticflow-asplos23.pdf *ElasticFlow: An Elastic Serverless Training Platform for Distributed Deep Learning*] \n
   Diandian Gu, Yihao Zhao, Yinmin Zhong, Yifan Xiong, Zhenhua Han, /Peng Cheng/, Fan Yang, Gang Huang, Xin Jin, and Xuanzhe Liu \n
   ASPLOS 2023.
