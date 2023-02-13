@@ -3,7 +3,7 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
-. [publications.html *ARK: GPU-driven Code Execution for Distributed Deep Learning*] \n
+. [publications/ark-nsdi23.pdf *ARK: GPU-driven Code Execution for Distributed Deep Learning*] \n
   Changho Hwang, KyoungSoo Park, Ran Shu, Xinyuan Qu, /Peng Cheng/, and Yongqiang Xiong \n
   NSDI 2023.
 
