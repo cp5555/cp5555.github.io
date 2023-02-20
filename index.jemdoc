@@ -28,6 +28,7 @@ My research interests are in the broad areas of *systems and networking*. My rec
 - Cloud Disaggregation
 
 == News
+- *2023/02.* Our paper [https://arxiv.org/abs/2206.03382 Tutel] got accepted at MLSys 2023.
 - *2022/12.* Our paper [publications/ark-nsdi23.pdf ARK] got accepted at NSDI 2023.
 - *2022/11.* Our paper [publications/elasticflow-asplos23.pdf ElasticFlow] got accepted at ASPLOS 2023.
 - *2022/10.* Our paper [publications/pipedevice-conext22.pdf PipeDevice] got accepted at CoNEXT 2022.
@@ -41,6 +42,7 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - *2022/04.* [publications/moneo-icc22.pdf Moneo] got accepted at ICC 2022 and OSR 2022.
 
 == Selected Papers ([publications.html Full List])
+- [https://arxiv.org/abs/2206.03382 MLSys'23] Tutel: Adaptive Mixture-of-Experts at Scale
 - [publications/ark-nsdi23.pdf NSDI'23] ARK: GPU-driven Code Execution for Distributed Deep Learning
 - [publications/elasticflow-asplos23.pdf ASPLOS'23] ElasticFlow: An Elastic Serverless Training Platform for Distributed Deep Learning
 - [publications/pipedevice-conext22.pdf CoNEXT'22] PipeDevice: A Hardware-Software Co-Design Approach to Intra-Host Container Communication

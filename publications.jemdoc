@@ -3,6 +3,10 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [https://arxiv.org/abs/2206.03382 *Tutel: Adaptive Mixture-of-Experts at Scale*] \n
+  Changho Hwang, Wei Cui, Yifan Xiong, Ziyue Yang, Ze Liu, Han Hu, Zilong Wang, Rafael Salas, Jithin Jose, Prabhat Ram, Hoyuen Chau, /Peng Cheng/, Fan Yang, Mao Yang, and Yongqiang Xiong \n
+  MLSys 2023.
+
 . [publications/ark-nsdi23.pdf *ARK: GPU-driven Code Execution for Distributed Deep Learning*] \n
   Changho Hwang, KyoungSoo Park, Ran Shu, Xinyuan Qu, /Peng Cheng/, and Yongqiang Xiong \n
   NSDI 2023.
@@ -192,10 +196,6 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   US Patent App. 16/442,819, 2020/12/17.
 
 == Preprints
-. [https://arxiv.org/abs/2206.03382 *Tutel: Adaptive Mixture-of-Experts at Scale*] \n
-  Changho Hwang, Wei Cui, Yifan Xiong, Ziyue Yang, Ze Liu, Han Hu, Zilong Wang, Rafael Salas, Jithin Jose, Prabhat Ram, Joe Chau, /Peng Cheng/, Fan Yang, Mao Yang, and Yongqiang Xiong \n
-  arXiv 2022.
-
 . [https://arxiv.org/abs/2103.07974 *CrossoverScheduler: Overlapping Multiple Distributed Training Applications in a Crossover Manner*] \n
   Cheng Luo, Lei Qu, Youshan Miao, /Peng Cheng/, and Yongqiang Xiong \n
   arXiv 2021.
