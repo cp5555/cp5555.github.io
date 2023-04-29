@@ -28,14 +28,15 @@ My research interests are in the broad areas of *systems and networking*. My rec
 - Cloud Disaggregation
 
 == News
-- *2023/04.* Our paper [index.html Query Processing on Gaming Consoles] got accepted at DAMON 2023.
-- *2023/02.* Our paper [https://arxiv.org/abs/2206.03382 Tutel] got accepted at MLSys 2023.
-- *2022/12.* Our paper [publications/ark-nsdi23.pdf ARK] got accepted at NSDI 2023.
-- *2022/11.* Our paper [publications/elasticflow-asplos23.pdf ElasticFlow] got accepted at ASPLOS 2023.
-- *2022/10.* Our paper [publications/pipedevice-conext22.pdf PipeDevice] got accepted at CoNEXT 2022.
-- *2022/09.* Our paper [publications/SeCBAD-NeurIPS2022.pdf SeCBAD] got accepted at NeurIPS 2022.
-- *2022/07.* Our paper [publications/opennetlab-apnet22.pdf OpenNetLab] received the *Best Paper Award* at [https://conferences.sigcomm.org/events/apnet2022/program.html APNet 2022]!
-- *2022/06.* Our paper [publications/ark-mlarchsys22.pdf Towards GPU-driven Code Execution for
+- *2023/04.* [index.html SegaNet] and [index.html SlimeMold] got accepted at APNet 2023.
+- *2023/04.* [index.html Query Processing on Gaming Consoles] got accepted at DAMON 2023.
+- *2023/02.* [https://arxiv.org/abs/2206.03382 Tutel] got accepted at MLSys 2023.
+- *2022/12.* [publications/ark-nsdi23.pdf ARK] got accepted at NSDI 2023.
+- *2022/11.* [publications/elasticflow-asplos23.pdf ElasticFlow] got accepted at ASPLOS 2023.
+- *2022/10.* [publications/pipedevice-conext22.pdf PipeDevice] got accepted at CoNEXT 2022.
+- *2022/09.* [publications/SeCBAD-NeurIPS2022.pdf SeCBAD] got accepted at NeurIPS 2022.
+- *2022/07.* [publications/opennetlab-apnet22.pdf OpenNetLab] received the *Best Paper Award* at [https://conferences.sigcomm.org/events/apnet2022/program.html APNet 2022]!
+- *2022/06.* [publications/ark-mlarchsys22.pdf Towards GPU-driven Code Execution for
 Distributed Deep Learning] received the *Best Paper Award* at [https://sites.google.com/view/mlarchsys/isca-2022/accepted-papers MLArchSys 2022]!
 - *2022/05.* [publications/rulecache-icws22.pdf RuleCache] got accepted at ICWS 2022.
 - *2022/04.* [publications/pilotfish-atc22.pdf PilotFish] got accepted at ATC 2022.
