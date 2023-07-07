@@ -177,7 +177,11 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   Chi-Yu Li, Chunyi Peng, /Peng Cheng/, Songwu Lu, Xinbing Wang, Fengyuan Ren, and Tao Wang \n
   IEEE Transactions on Mobile Computing 2015.
 
-== Posters and Demos 
+== Posters and Demos
+. *Meili: Towards SmartNIC as a Service* \n
+  Qiang Su, Shaofeng Wu, Zhixiong Niu, Ran Shu, /Peng Cheng/, Yongqiang Xiong, Chun Jason Xue, Zaoxing Liu, and Hong Xu \n
+  ACM SIGCOMM 2023 (Posters and Demos).
+
 . [https://qiangsu97.github.io/files/sigcomm22posters-final65.pdf *PipeDevice: A Hardware-Software Co-Design Approach to Intra-Host Container Communication*] \n
   Qiang Su, Chuanwen Wang, Zhixiong Niu, Ran Shu, /Peng Cheng/, Yongqiang Xiong, Dongsu Han, Chun Jason Xue, and Hong Xu \n
   ACM SIGCOMM 2022 (Posters and Demos).
