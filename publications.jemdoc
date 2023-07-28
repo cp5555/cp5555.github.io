@@ -3,6 +3,10 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. *SPFresh: Incremental In-Place Update for Billion-Scale Vector Search* \n
+  Yuming Xu, Hengyu Liang, Jin Li, Shuotao Xu, Qi Chen, Qianxi Zhang, Cheng Li, Ziyue Yang, Fan Yang, Yuqing Yang, /Peng Cheng/, and Mao Yang \n
+  SOSP 2023.
+
 . [https://arxiv.org/abs/2206.03382 *Tutel: Adaptive Mixture-of-Experts at Scale*] \n
   Changho Hwang, Wei Cui, Yifan Xiong, Ziyue Yang, Ze Liu, Han Hu, Zilong Wang, Rafael Salas, Jithin Jose, Prabhat Ram, Hoyuen Chau, /Peng Cheng/, Fan Yang, Mao Yang, and Yongqiang Xiong \n
   MLSys 2023.
@@ -178,7 +182,7 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   IEEE Transactions on Mobile Computing 2015.
 
 == Posters and Demos
-. *Meili: Towards SmartNIC as a Service* \n
+. [publications/meili-sigcomm2023posters.pdf *Meili: Towards SmartNIC as a Service*] \n
   Qiang Su, Shaofeng Wu, Zhixiong Niu, Ran Shu, /Peng Cheng/, Yongqiang Xiong, Chun Jason Xue, Zaoxing Liu, and Hong Xu \n
   ACM SIGCOMM 2023 (Posters and Demos).
 
