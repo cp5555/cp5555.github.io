@@ -28,7 +28,7 @@ My research interests are in the broad areas of *systems and networking*. My rec
 - Cloud Disaggregation
 
 == News
-- *2023/07.* [index.html SPFresh] got accepted at SOSP 2023.
+- *2023/07.* [https://www.microsoft.com/en-us/research/publication/spfresh-incremental-in-place-update-for-billion-scale-vector-search/ SPFresh] got accepted at SOSP 2023.
 - *2023/04.* [publications/SegaNet-apnet23.pdf SegaNet] and [publications/SlimeMold-apnet23.pdf SlimeMold] got accepted at APNet 2023.
 - *2023/04.* [https://dl.acm.org/doi/pdf/10.1145/3592980.3595313 Query Processing on Gaming Consoles] got accepted at DAMON 2023.
 - *2023/02.* [https://arxiv.org/abs/2206.03382 Tutel] got accepted at MLSys 2023.
@@ -45,7 +45,7 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - *2022/04.* [publications/moneo-icc22.pdf Moneo] got accepted at ICC 2022 and OSR 2022.
 
 == Selected Papers ([publications.html Full List])
-- [index.html SOSP'23] SPFresh: Incremental In-Place Update for Billion-Scale Vector Search
+- [https://www.microsoft.com/en-us/research/publication/spfresh-incremental-in-place-update-for-billion-scale-vector-search/ SOSP'23] SPFresh: Incremental In-Place Update for Billion-Scale Vector Search
 - [https://arxiv.org/abs/2206.03382 MLSys'23] Tutel: Adaptive Mixture-of-Experts at Scale
 - [publications/ark-nsdi23.pdf NSDI'23] ARK: GPU-driven Code Execution for Distributed Deep Learning
 - [publications/elasticflow-asplos23.pdf ASPLOS'23] ElasticFlow: An Elastic Serverless Training Platform for Distributed Deep Learning
