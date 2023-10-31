@@ -216,6 +216,10 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   US Patent App. 16/442,819, 2020/12/17.
 
 == Preprints
+. [https://arxiv.org/abs/2310.18313 *FP8-LM: Training FP8 Large Language Models*] \n
+  Houwen Peng, Kan Wu, Yixuan Wei, Guoshuai Zhao, Yuxiang Yang, Ze Liu, Yifan Xiong, Ziyue Yang, Bolin Ni, Jingcheng Hu, Ruihang Li, Miaosen Zhang, Chen Li, Jia Ning, Ruizhe Wang, Zheng Zhang, Shuguang Liu, Joe Chau, Han Hu, and /Peng Cheng/ \n
+  arXiv 2023.
+
 . [https://arxiv.org/abs/2103.07974 *CrossoverScheduler: Overlapping Multiple Distributed Training Applications in a Crossover Manner*] \n
   Cheng Luo, Lei Qu, Youshan Miao, /Peng Cheng/, and Yongqiang Xiong \n
   arXiv 2021.
