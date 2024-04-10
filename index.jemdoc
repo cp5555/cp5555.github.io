@@ -4,28 +4,26 @@
 ~~~
 {}{img_left}{picture/bio.png}{alt text}{250}{250}
 *Peng Cheng*\n
-[https://www.microsoft.com/en-us/research/people/pengc/ Principal Researcher]\n 
-[https://www.microsoft.com/en-us/research/group/networking_research_group/ Networking Research Group], \n
+[https://www.microsoft.com/en-us/research/people/pengc/ Senior Principal Research Manager]\n 
 Microsoft Research Asia (MSRA)\n
 \n\n
-Address: No.5 Danling Street, Haidian District, Beijing, China \n
 E-mail: pengc at microsoft dot com \n
 \[[https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar]\]\[[https://github.com/cp5555 GitHub]\]
 ~~~
 
-I'm currently a principal researcher at Microsoft Research Asia (MSRA). 
+I'm currently a senior principal research manager at Microsoft Research Asia (MSRA). 
 I received my Ph.D. in Computer Science and Technology from Tsinghua University in 2015 and B.S. degrees in Software Engineering from Beihang University in 2010. 
-I was as a visiting student in UCLA from September 2013 to September 2014. In 2015, I joined Networking Research Group at MSRA.
+I was as a visiting student in UCLA from September 2013 to September 2014. In 2015, I joined MSRA.
 
 ~~~
 {}{raw}
-<p style="color:#BB0000";><strong>Please feel free to send me an email if you are interested in full-time research position, internship, or joint ph.D program. </strong></p> 
+<p style="color:#BB0000";><strong>Please feel free to send me an email if you are interested in a full-time research position, internship, or visiting researcher role in MSRA Vancouver lab. </strong></p> 
 ~~~
 
-My research interests are in the broad areas of *systems and networking*. My recent work is mainly focusing on: 
-- AI Infrastructure and Machine Learning Systems
+My research interests are in the broad areas of *systems and networking, cloud and AI infrastructure, and AI*. My recent work is mainly focusing on: 
+- Artifical Specialized Intelligence
 - AI for Systems and Networking
-- Cloud Disaggregation
+- AI for Cloud and AI Infrastructure
 
 == News
 - *2024/02.* [https://arxiv.org/abs/2402.06194 Anubis] havs released on Arxiv.
