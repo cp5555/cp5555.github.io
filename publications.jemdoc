@@ -3,6 +3,10 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [publications.html *SuperBench: Improving Cloud AI Infrastructure Reliability with Proactive Validation*] \n
+  Yifan Xiong, Yuting Jiang, Ziyue Yang, Lei Qu, Guoshuai Zhao, Shuguang Liu, Dong Zhong, Boris Pinzur, Jie Zhang, Yang Wang, Jithin Jose, Hossein Pourreza, Jeff Baxter, Kushal Datta, Prabhat Ram, Luke Melton, Joe Chau, /Peng Cheng/, Yongqiang Xiong, and Lidong Zhou \n
+  USENIX ATC 2024. *(To Appear)*
+
 . [https://www.microsoft.com/en-us/research/publication/spfresh-incremental-in-place-update-for-billion-scale-vector-search/ *SPFresh: Incremental In-Place Update for Billion-Scale Vector Search*] \n
   Yuming Xu, Hengyu Liang, Jin Li, Shuotao Xu, Qi Chen, Qianxi Zhang, Cheng Li, Ziyue Yang, Fan Yang, Yuqing Yang, /Peng Cheng/, and Mao Yang \n
   SOSP 2023.
