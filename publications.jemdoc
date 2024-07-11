@@ -108,6 +108,10 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   IEEE ICCCN 2013.
 
 == Workshops
+. [publications.html *SmartNIC-enabled Live Migration for Storage Optimized VMs*] \n
+  Jiechen Zhao, Ran Shu, Lei Qu, Ziyue Yang, Natalie Enright Jerger, Derek Chiou, /Peng Cheng/, and Yongqiang Xiong \n
+  APSys 2024. *(To Appear)*
+
 . [publications/SegaNet-apnet23.pdf *SegaNet: An Advanced IoT Cloud Gateway for Performant and Priority-Oriented Message Delivery*] \n
   Yeonho Yoo, Zhixiong Niu, Chuck Yoo, /Peng Cheng/, and Yongqiang Xiong \n
   APNet 2023.
@@ -224,6 +228,14 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   US Patent App. 16/442,819, 2020/12/17.
 
 == Preprints
+. [https://arxiv.org/abs/2406.15330 *Gradient-Mask Tuning Elevates the Upper Limits of LLM Performance*] \n
+  Haoling Li, Xin Zhang, Xiao Liu, Yeyun Gong, Yifan Wang, Yujiu Yang, Qi Chen, and /Peng Cheng/ \n
+  arXiv 2024.
+
+. [https://arxiv.org/abs/2403.18702 *Toward CXL-Native Memory Tiering via Device-Side Profiling*] \n
+  Zhe Zhou, Yiqi Chen, Tao Zhang, Yang Wang, Ran Shu, Shuotao Xu, /Peng Cheng/, Lei Qu, Yongqiang Xiong, Guangyu Sun \n
+  arXiv 2024.
+  
 . [https://arxiv.org/abs/2312.11871 *Meili: Enabling SmartNIC as a Service in the Cloud*] \n
   Qiang Su, Shaofeng Wu, Zhixiong Niu, Ran Shu, /Peng Cheng/, Yongqiang Xiong, Chun Jason Xue, Zaoxing Liu, and Hong Xu \n
   arXiv 2023.
