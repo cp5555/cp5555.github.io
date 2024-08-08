@@ -5,7 +5,7 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
 == Conferences
 . [https://arxiv.org/abs/2403.18702 *NeoMem: Hardware\/Software Co-Design for CXL-Native Memory Tiering*] \n
   Zhe Zhou, Yiqi Chen, Tao Zhang, Yang Wang, Ran Shu, Shuotao Xu, /Peng Cheng/, Lei Qu, Yongqiang Xiong, and Guangyu Sun \n
-  MICRO 2024. (To be Appear)
+  MICRO 2024. *(To Appear)*
 
 . [https://www.usenix.org/conference/atc24/presentation/xiong *SuperBench: Improving Cloud AI Infrastructure Reliability with Proactive Validation*] \n
   Yifan Xiong, Yuting Jiang, Ziyue Yang, Lei Qu, Guoshuai Zhao, Shuguang Liu, Dong Zhong, Boris Pinzur, Jie Zhang, Yang Wang, Jithin Jose, Hossein Pourreza, Jeff Baxter, Kushal Datta, Prabhat Ram, Luke Melton, Joe Chau, /Peng Cheng/, Yongqiang Xiong, and Lidong Zhou \n
@@ -215,6 +215,18 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   NeurIPS 2019 Workshop on Machine Learning for Systems (Poster).
 
 == Patents
+. [https://patentimages.storage.googleapis.com/7e/7a/24/a0b2f5cb418a5d/US20240169463A1.pdf *Mixture-of-experts layer with dynamic gating*] \n
+  Yifan Xiong, Changho Hwang, Wei Cui, Yang Ziyue, Ze Liu, Han Hu, Zilong Wang, Rafael Omar Salas, Jithin Jose, Ram Prabhat, Ho-Yuen Chau, /Peng Cheng/, Fan Yang, Yang Mao, Yongqiang Xiong \n
+  US Patent App. 18/054,451, 2024/05/16.
+  
+. [https://patentimages.storage.googleapis.com/a5/9a/6e/1f4103b41821a0/US20240160894A1.pdf *Mixture-of-experts layer with switchable parallel modes*] \n
+  Yifan Xiong, Changho Hwang, Wei Cui, Yang Ziyue, Ze Liu, Han Hu, Zilong Wang, Rafael Omar Salas, Jithin Jose, Ram Prabhat, Ho-Yuen Chau, /Peng Cheng/, Fan Yang, Yang Mao, Yongqiang Xiong \n
+  US Patent App. 18/054,446, 2024/05/16.
+
+. [https://patentimages.storage.googleapis.com/4e/ab/a5/fa1c644d31482b/US20240160906A1.pdf *Collective communication phases at mixture-of-experts layer*] \n
+  Yifan Xiong, Changho Hwang, Wei Cui, Yang Ziyue, Ze Liu, Han Hu, Zilong Wang, Rafael Omar Salas, Jithin Jose, Ram Prabhat, Ho-Yuen Chau, /Peng Cheng/, Fan Yang, Yang Mao, Yongqiang Xiong \n
+  US Patent App. 18/054,452, 2024/05/16.
+
 . [https://patentimages.storage.googleapis.com/c8/86/17/a5fa257e614e53/US11308024.pdf *Multi-path RDMA Transmission*] \n
   Guo Chen, Thomas Moscibroda, /Peng Cheng/, Yuanwei Lu, and Yongqiang Xiong \n
   US Patent 11,308,024, 2022/04/19.
