@@ -3,6 +3,10 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [https://arxiv.org/abs/2403.18702 *NeoMem: Hardware\/Software Co-Design for CXL-Native Memory Tiering*] \n
+  Zhe Zhou, Yiqi Chen, Tao Zhang, Yang Wang, Ran Shu, Shuotao Xu, /Peng Cheng/, Lei Qu, Yongqiang Xiong, and Guangyu Sun \n
+  MICRO 2024. (To be Appear)
+
 . [https://www.usenix.org/conference/atc24/presentation/xiong *SuperBench: Improving Cloud AI Infrastructure Reliability with Proactive Validation*] \n
   Yifan Xiong, Yuting Jiang, Ziyue Yang, Lei Qu, Guoshuai Zhao, Shuguang Liu, Dong Zhong, Boris Pinzur, Jie Zhang, Yang Wang, Jithin Jose, Hossein Pourreza, Jeff Baxter, Kushal Datta, Prabhat Ram, Luke Melton, Joe Chau, /Peng Cheng/, Yongqiang Xiong, and Lidong Zhou \n
   USENIX ATC 2024. [https://www.usenix.org/conference/atc24/presentation/xiong *{{<font color="crimson">(Best Paper Award)</font>}}*] 
@@ -232,10 +236,6 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   Haoling Li, Xin Zhang, Xiao Liu, Yeyun Gong, Yifan Wang, Yujiu Yang, Qi Chen, and /Peng Cheng/ \n
   arXiv 2024.
 
-. [https://arxiv.org/abs/2403.18702 *Toward CXL-Native Memory Tiering via Device-Side Profiling*] \n
-  Zhe Zhou, Yiqi Chen, Tao Zhang, Yang Wang, Ran Shu, Shuotao Xu, /Peng Cheng/, Lei Qu, Yongqiang Xiong, Guangyu Sun \n
-  arXiv 2024.
-  
 . [https://arxiv.org/abs/2312.11871 *Meili: Enabling SmartNIC as a Service in the Cloud*] \n
   Qiang Su, Shaofeng Wu, Zhixiong Niu, Ran Shu, /Peng Cheng/, Yongqiang Xiong, Chun Jason Xue, Zaoxing Liu, and Hong Xu \n
   arXiv 2023.
