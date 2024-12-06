@@ -3,9 +3,13 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [publications.html *MINA: Fine-grained In-network Aggregation Resource Scheduling for Machine Learning Service*] \n
+  Shichen Dong, Zhixiong Niu, Mingchao Zhang, Zhiying Xu, Chuntao Hu, Pengzhi Zhu, Qingchun Song, Lei Qu, /Peng Cheng/, Cam-Tu Nguyen, Shaoling Sun, Xiaohu Xu, Yongqiang Xiong, Wei Wang and Xiaoliang Wang \n
+  IEEE INFOCOM 2025.
+
 . [https://arxiv.org/abs/2403.18702 *NeoMem: Hardware\/Software Co-Design for CXL-Native Memory Tiering*] \n
   Zhe Zhou, Yiqi Chen, Tao Zhang, Yang Wang, Ran Shu, Shuotao Xu, /Peng Cheng/, Lei Qu, Yongqiang Xiong, and Guangyu Sun \n
-  MICRO 2024. *(To Appear)*
+  MICRO 2024.
 
 . [https://www.usenix.org/conference/atc24/presentation/xiong *SuperBench: Improving Cloud AI Infrastructure Reliability with Proactive Validation*] \n
   Yifan Xiong, Yuting Jiang, Ziyue Yang, Lei Qu, Guoshuai Zhao, Shuguang Liu, Dong Zhong, Boris Pinzur, Jie Zhang, Yang Wang, Jithin Jose, Hossein Pourreza, Jeff Baxter, Kushal Datta, Prabhat Ram, Luke Melton, Joe Chau, /Peng Cheng/, Yongqiang Xiong, and Lidong Zhou \n
