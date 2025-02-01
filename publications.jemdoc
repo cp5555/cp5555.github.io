@@ -3,6 +3,10 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [https://arxiv.org/abs/2410.15756 *Automated Proof Generation for Rust Code via Self-Evolution*] \n
+  Tianyu Chen, Shuai Lu, Shan Lu, Yeyun Gong, Chenyuan Yang, Xuheng Li, Md Rakib Hossain Misu, Hao Yu, Nan Duan, /Peng Cheng/, Fan Yang, Shuvendu Lahiri, Tao Xie, and Lidong Zhou, \n
+  ICLR 2025. *(To Appear)*
+
 . [https://arxiv.org/abs/2406.15330 *Enhancing Large Language Model Performance with Gradient-Based Parameter Selection*] \n
   Haoling Li, Xin Zhang, Xiao Liu, Yeyun Gong, Yifan Wang, Qi Chen, and /Peng Cheng/ \n
   AAAI 2025. *(To Appear)*
@@ -260,6 +264,18 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   US Patent App. 16/442,819, 2020/12/17.
 
 == Preprints
+. [https://arxiv.org/abs/2501.17116 *Optimizing Large Language Model Training Using FP4 Quantization*] \n
+  Ruizhe Wang, Yeyun Gong, Xiao Liu, Guoshuai Zhao, Ziyue Yang, Baining Guo, Zhengjun Zha, and /Peng Cheng/ \n
+  arXiv 2025.
+
+. [https://arxiv.org/abs/2501.14170 *Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models*] \n
+  Yile Gu, Yifan Xiong, Jonathan Mace, Yuting Jiang, Yigong Hu, Baris Kasikci, and /Peng Cheng/ \n
+  arXiv 2025.
+
+. [https://arxiv.org/abs/2501.13629 *Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models*] \n
+  Zhenghao Lin, Zihao Tang, Xiao Liu, Yeyun Gong, Yi Cheng, Qi Chen, Hang Li, Ying Xin, Ziyue Yang, Kailai Yang, Yu Yan, Xiao Liang, Shuai Lu, Yiming Huang, Zheheng Luo, Lei Qu, Xuan Feng, Yaoxiang Wang, Yuqing Xia, Feiyang Chen, Yuting Jiang, Yasen Hu, Hao Ni, Binyang Li, Guoshuai Zhao, Jui-Hao Chiang, Zhongxin Guo, Chen Lin, Kun Kuang, Wenjie Li, Yelong Shen, Jian Jiao, /Peng Cheng/, and Mao Yang, \n
+  arXiv 2025.
+
 . [https://arxiv.org/abs/2312.11871 *Meili: Enabling SmartNIC as a Service in the Cloud*] \n
   Qiang Su, Shaofeng Wu, Zhixiong Niu, Ran Shu, /Peng Cheng/, Yongqiang Xiong, Chun Jason Xue, Zaoxing Liu, and Hong Xu \n
   arXiv 2023.

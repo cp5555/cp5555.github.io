@@ -26,6 +26,8 @@ My research interests are in the broad areas of *systems and networking, cloud a
 - AI for Cloud and AI Infrastructure
 
 == News
+- *2025/01.* [https://arxiv.org/abs/2501.13629 SIGMA], [https://arxiv.org/abs/2501.17116 FP4-Training], and [https://arxiv.org/abs/2501.14170 Argos] has been released on Arxiv.
+- *2025/01.* [https://arxiv.org/abs/2410.15756 SAFE] got accepted at ICLR 2025.
 - *2024/12.* [https://arxiv.org/abs/2406.15330 GMT] got accepted at AAAI 2025.
 - *2024/12.* [index.html MINA] got accepted at INFOCOM 2025.
 - *2024/07.* [https://arxiv.org/abs/2403.18702 NeoMem] got accepted at MICRO 2024.
@@ -51,6 +53,8 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - *2022/04.* [publications/moneo-icc22.pdf Moneo] got accepted at ICC 2022 and OSR 2022.
 
 == Selected Papers ([publications.html Full List])
+- [https://arxiv.org/abs/2410.15756 ICLR'25] Automated Proof Generation for Rust Code via Self-Evolution
+- [https://arxiv.org/abs/2403.18702 AAAI'25] Enhancing Large Language Model Performance with Gradient-Based Parameter Selection
 - [https://arxiv.org/abs/2403.18702 MICRO'24] NeoMem: Hardware\/Software Co-Design for CXL-Native Memory Tiering
 - [https://www.usenix.org/conference/atc24/presentation/xiong ATC'24] SuperBench: Improving Cloud AI Infrastructure Reliability with Proactive Validation
 - [https://www.microsoft.com/en-us/research/publication/spfresh-incremental-in-place-update-for-billion-scale-vector-search/ SOSP'23] SPFresh: Incremental In-Place Update for Billion-Scale Vector Search
