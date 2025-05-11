@@ -26,6 +26,7 @@ My research interests are in the broad areas of *systems and networking, cloud a
 - AI for Cloud and AI Infrastructure
 
 == News
+- *2025/05.* [https://arxiv.org/abs/2501.17116 FP4 Training] got accepted at ICML 2025.
 - *2025/04.* [https://arxiv.org/abs/2504.09014 MSCCL\+\+] has been released on Arxiv.
 - *2025/03.* [index.html RAPIDSCRIBE] got accepted at ICDCS 2025.
 - *2025/01.* [https://arxiv.org/abs/2501.13629 SIGMA], [https://arxiv.org/abs/2501.17116 FP4-Training], and [https://arxiv.org/abs/2501.14170 Argos] has been released on Arxiv.
@@ -55,6 +56,8 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - *2022/04.* [publications/moneo-icc22.pdf Moneo] got accepted at ICC 2022 and OSR 2022.
 
 == Selected Papers ([publications.html Full List])
+- [https://arxiv.org/abs/2501.17116 ICML'25] Optimizing Large Language Model Training Using FP4 Quantization
+- [https://arxiv.org/abs/2410.01556 ICLR'25] Integrative Decoding: Improve Factuality via Implicit Self-consistency
 - [https://arxiv.org/abs/2410.15756 ICLR'25] Automated Proof Generation for Rust Code via Self-Evolution
 - [https://arxiv.org/abs/2403.18702 AAAI'25] Enhancing Large Language Model Performance with Gradient-Based Parameter Selection
 - [https://arxiv.org/abs/2403.18702 MICRO'24] NeoMem: Hardware\/Software Co-Design for CXL-Native Memory Tiering

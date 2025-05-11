@@ -4,17 +4,21 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
 
 == Conferences
 
+. [https://arxiv.org/abs/2501.17116 *Optimizing Large Language Model Training Using FP4 Quantization*] \n
+  Ruizhe Wang, Yeyun Gong, Xiao Liu, Guoshuai Zhao, Ziyue Yang, Baining Guo, Zhengjun Zha, and /Peng Cheng/ \n
+  ICML 2025. *(To Appear)*
+
 . [publications.html *RAPIDSCRIBE: Bandwidth-aware Parallel Snapshots for Distributed Neural-Network Training*] \n
   Wenxuan Liu, Qihang Chen, Shuotao Xu, Hua Yang, Yuqing Yang, and /Peng Cheng/ \n
   ICDCS 2025. *(To Appear)*
 
 . [https://arxiv.org/abs/2410.01556 *Integrative Decoding: Improve Factuality via Implicit Self-consistency*] \n
   Yi Cheng, Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, Wenjun Hou, Kaishuai Xu, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, /Peng Cheng/, and Wayne Xiong \n
-  ICLR 2025. *(To Appear)*
+  ICLR 2025.
 
 . [https://arxiv.org/abs/2410.15756 *Automated Proof Generation for Rust Code via Self-Evolution*] \n
   Tianyu Chen, Shuai Lu, Shan Lu, Yeyun Gong, Chenyuan Yang, Xuheng Li, Md Rakib Hossain Misu, Hao Yu, Nan Duan, /Peng Cheng/, Fan Yang, Shuvendu Lahiri, Tao Xie, and Lidong Zhou \n
-  ICLR 2025. *(To Appear)*
+  ICLR 2025.
 
 . [https://arxiv.org/abs/2406.15330 *Enhancing Large Language Model Performance with Gradient-Based Parameter Selection*] \n
   Haoling Li, Xin Zhang, Xiao Liu, Yeyun Gong, Yifan Wang, Qi Chen, and /Peng Cheng/ \n
@@ -275,10 +279,6 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
 == Preprints
 . [https://arxiv.org/abs/2504.09014 *MSCCL\+\+: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications*] \n
   Aashaka Shah, Abhinav Jangda, Binyang Li, Caio Rocha, Changho Hwang, Jithin Jose, Madan Musuvathi, Olli Saarikivi, /Peng Cheng/, Qinghua Zhou, Roshan Dathathri, Saeed Maleki, and Ziyue Yang \n
-  arXiv 2025.
-
-. [https://arxiv.org/abs/2501.17116 *Optimizing Large Language Model Training Using FP4 Quantization*] \n
-  Ruizhe Wang, Yeyun Gong, Xiao Liu, Guoshuai Zhao, Ziyue Yang, Baining Guo, Zhengjun Zha, and /Peng Cheng/ \n
   arXiv 2025.
 
 . [https://arxiv.org/abs/2501.14170 *Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models*] \n
