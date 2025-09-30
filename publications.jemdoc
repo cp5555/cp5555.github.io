@@ -27,7 +27,7 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   Haoling Li, Xin Zhang, Xiao Liu, Yeyun Gong, Yifan Wang, Qi Chen, and /Peng Cheng/ \n
   AAAI 2025.
 
-. [publications.html *MINA: Fine-grained In-network Aggregation Resource Scheduling for Machine Learning Service*] \n
+. [https://ieeexplore.ieee.org/abstract/document/11044657 *MINA: Fine-grained In-network Aggregation Resource Scheduling for Machine Learning Service*] \n
   Shichen Dong, Zhixiong Niu, Mingchao Zhang, Zhiying Xu, Chuntao Hu, Pengzhi Zhu, Qingchun Song, Lei Qu, /Peng Cheng/, Cam-Tu Nguyen, Shaoling Sun, Xiaohu Xu, Yongqiang Xiong, Wei Wang, and Xiaoliang Wang \n
   IEEE INFOCOM 2025.
 
@@ -197,6 +197,10 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   ACM Hotnets 2016.
 
 == Journals
+. [publications.html *Fine-grained Scheduling of In-network Aggregation Resources for Efficient Machine Learning Service*] \n
+  Shichen Dong, Zhixiong Niu, Mingchao Zhang, Zhiying Xu, Chuntao Hu, Pengzhi Zhu, Qingchun Song, Lei Qu, /Peng Cheng/, Cam-Tu Nguyen, Shaoling Sun, Xiaohu Xu, Yongqiang Xiong, Wei Wang, Xiaoliang Wang, and Guihai Chen \n
+  IEEE Transactions on Networking 2025.
+
 . [https://ieeexplore.ieee.org/document/10849664/ *Low-Overhead Intra-Host Container Communication With Hardware Offloading*] \n
   Qiang Su, Zhixiong Niu, Ran Shu, /Peng Cheng/, Yongqiang Xiong, Dongsu Han, Chun Jason Xue, and Hong Xu \n
   IEEE Transactions on Networking 2025.
