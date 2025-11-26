@@ -3,6 +3,10 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [https://arxiv.org/abs/2504.09014 *MSCCL\+\+: Rethinking GPU Communication Abstractions for AI Inference*] \n
+  Aashaka Shah, Abhinav Jangda, Binyang Li, Caio Rocha, Changho Hwang, Jithin Jose, Madan Musuvathi, Mahdieh Ghazimirsaeed, Olli Saarikivi, /Peng Cheng/, Qinghua Zhou, Roshan Dathathri, Saeed Maleki, Sreevatsa Anantharamu, and Ziyue Yang \n
+  ASPLOS 2026.
+
 . [https://arxiv.org/abs/2411.14318 *Velocitune: A Velocity-based Dynamic Domain Reweighting Method for Continual Pre-training*] \n
   Zheheng Luo, Xin Zhang, Xiao Liu, Haoling Li, Yeyun Gong, Chen Qi, and /Peng Cheng/\n
   ACL 2025.
@@ -284,10 +288,6 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   US Patent App. 16/442,819, 2020/12/17.
 
 == Preprints
-. [https://arxiv.org/abs/2504.09014 *MSCCL\+\+: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications*] \n
-  Aashaka Shah, Abhinav Jangda, Binyang Li, Caio Rocha, Changho Hwang, Jithin Jose, Madan Musuvathi, Olli Saarikivi, /Peng Cheng/, Qinghua Zhou, Roshan Dathathri, Saeed Maleki, and Ziyue Yang \n
-  arXiv 2025.
-
 . [https://arxiv.org/abs/2501.14170 *Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models*] \n
   Yile Gu, Yifan Xiong, Jonathan Mace, Yuting Jiang, Yigong Hu, Baris Kasikci, and /Peng Cheng/ \n
   arXiv 2025.

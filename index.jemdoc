@@ -26,6 +26,7 @@ My research interests are in the broad areas of *systems and networking, cloud a
 - AI for Cloud and AI Infrastructure
 
 == News
+- *2025/11.* [https://arxiv.org/abs/2504.09014 MSCCL\+\+] got accepted at ASPLOS 2026.
 - *2025/05.* [https://arxiv.org/abs/2411.14318 Velocitune] got accepted at ACL 2025.
 - *2025/05.* [https://arxiv.org/abs/2501.17116 FP4-Training] got accepted at ICML 2025.
 - *2025/04.* [https://arxiv.org/abs/2504.09014 MSCCL\+\+] has been released on Arxiv.
@@ -57,6 +58,7 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - *2022/04.* [publications/moneo-icc22.pdf Moneo] got accepted at ICC 2022 and OSR 2022.
 
 == Selected Papers ([publications.html Full List])
+- [https://arxiv.org/abs/2504.09014 ASPLOS'26] MSCCL\+\+: Rethinking GPU Communication Abstractions for AI Inference
 - [https://arxiv.org/abs/2501.17116 ICML'25] Optimizing Large Language Model Training Using FP4 Quantization
 - [https://arxiv.org/abs/2410.01556 ICLR'25] Integrative Decoding: Improve Factuality via Implicit Self-consistency
 - [https://arxiv.org/abs/2410.15756 ICLR'25] Automated Proof Generation for Rust Code via Self-Evolution
