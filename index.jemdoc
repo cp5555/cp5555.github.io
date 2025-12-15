@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{picture/bio.png}{alt text}{250}{250}
 *Peng Cheng*\n
-[https://www.microsoft.com/en-us/research/people/pengc/ Partner Research Manager]\n 
+[https://www.microsoft.com/en-us/research/people/pengc/ Partner Research Manager and Senior Director]\n 
 [https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/ Microsoft Research Asia - Vancouver]\n
 \n\n
 E-mail: pengc at microsoft dot com \n
@@ -26,15 +26,16 @@ My research interests are in the broad areas of *systems and networking, cloud a
 - AI for Cloud and AI Infrastructure
 
 == News
+- *2025/12.* [index.html PYROCUMULUS] got accepted at NSDI 2026.
 - *2025/11.* [https://arxiv.org/abs/2504.09014 MSCCL\+\+] got accepted at ASPLOS 2026.
 - *2025/05.* [https://arxiv.org/abs/2411.14318 Velocitune] got accepted at ACL 2025.
 - *2025/05.* [https://arxiv.org/abs/2501.17116 FP4-Training] got accepted at ICML 2025.
 - *2025/04.* [https://arxiv.org/abs/2504.09014 MSCCL\+\+] has been released on Arxiv.
-- *2025/03.* [index.html RAPIDSCRIBE] got accepted at ICDCS 2025.
-- *2025/01.* [https://arxiv.org/abs/2501.13629 SIGMA] and [https://arxiv.org/abs/2501.14170 Argos] has been released on Arxiv.
+- *2025/03.* [https://ieeexplore.ieee.org/document/11183810 RAPIDSCRIBE] got accepted at ICDCS 2025.
+- *2025/01.* [https://arxiv.org/abs/2501.13629 SIGMA-V1] and [https://arxiv.org/abs/2501.14170 Argos] has been released on Arxiv.
 - *2025/01.* [https://arxiv.org/abs/2410.15756 SAFE] and [https://arxiv.org/abs/2410.01556 Integrative Decoding] got accepted at ICLR 2025.
 - *2024/12.* [https://arxiv.org/abs/2406.15330 GMT] got accepted at AAAI 2025.
-- *2024/12.* [index.html MINA] got accepted at INFOCOM 2025.
+- *2024/12.* [https://ieeexplore.ieee.org/document/11044657 MINA] got accepted at INFOCOM 2025.
 - *2024/07.* [https://arxiv.org/abs/2403.18702 NeoMem] got accepted at MICRO 2024.
 - *2024/07.* [https://www.usenix.org/conference/atc24/presentation/xiong SuperBench] received the *Best Paper Award* at [https://www.usenix.org/conference/atc24 ATC 2024]!
 - *2024/07.* [https://dl.acm.org/doi/10.1145/3678015.3680487SmartNIC-Enabled Live Migration for Storage-Optimized VMs] got accepted at APSys 2024.
@@ -58,6 +59,7 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - *2022/04.* [publications/moneo-icc22.pdf Moneo] got accepted at ICC 2022 and OSR 2022.
 
 == Selected Papers ([publications.html Full List])
+- [index.html NSDI'26] SmartNIC-Enabled Live Migration for Storage-Optimized VMs with PYROCUMULUS
 - [https://arxiv.org/abs/2504.09014 ASPLOS'26] MSCCL\+\+: Rethinking GPU Communication Abstractions for AI Inference
 - [https://arxiv.org/abs/2501.17116 ICML'25] Optimizing Large Language Model Training Using FP4 Quantization
 - [https://arxiv.org/abs/2410.01556 ICLR'25] Integrative Decoding: Improve Factuality via Implicit Self-consistency
