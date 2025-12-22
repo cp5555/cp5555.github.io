@@ -3,6 +3,10 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [https://arxiv.org/abs/2506.01481 *TSGuard: Automated User-Centric Incident Diagnosis for AI Workloads in the Cloud*] \n
+  Yitao Yang, Yangtao Deng, Yifan Xiong, Baochun Li, Hong Xu, and /Peng Cheng/ \n
+  FSE 2026. *(To Appear)*
+
 . [index.html *SmartNIC-Enabled Live Migration for Storage-Optimized VMs with PYROCUMULUS*] \n
   Jiechen Zhao, Ran Shu, Lei Qu, Ziyue Yang, Rui Ma, Derek Chiou, Natalie Enright Jerger, /Peng Cheng/, and Yongqiang Xiong \n
   USENIX NSDI 2026. *(To Appear)*
