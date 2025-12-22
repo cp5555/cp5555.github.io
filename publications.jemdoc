@@ -292,6 +292,18 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   US Patent App. 16/442,819, 2020/12/17.
 
 == Preprints
+. [https://arxiv.org/abs/2512.16248 *SIGMA-MOE-Tiny Technical Report*] \n
+  Qingguo Hu, Zhenghao Lin, Ziyue Yang, Yucheng Ding, Xiao Liu, Yuting Jiang, Ruizhe Wang, Tianyu Chen, Zhongxin Guo, Yifan Xiong, Rui Gao, Lei Qu, Jinsong Su, /Peng Cheng/, and Yeyun Gong \n
+  arXiv 2025. *\[[https://qghuxmu.github.io/Sigma-MoE-Tiny/ BLOG]\]*
+
+. [https://arxiv.org/abs/2512.13488 *SIGMA: An AI-Empowered Training Stack on Early-Life Hardware*] \n
+  Lei Qu, Lianhai Ren, /Peng Cheng/, Rui Gao, Ruizhe Wang, Tianyu Chen, Xiao Liu, Xingjian Zhang, Yeyun Gong, Yifan Xiong, Yucheng Ding, Yuting Jiang, Zhenghao Lin, Zhongxin Guo, and Ziyue Yang \n
+  arXiv 2025. *\[[https://github.com/microsoft/LuciaTrainingPlatform CODE]\]*
+
+. [https://arxiv.org/abs/2511.10753 *FengHuang: Next-Generation Memory Orchestration for AI Inferencing*] \n
+  Jiamin Li, Lei Qu, Tao Zhang, Grigory Chirkov, Shuotao Xu, /Peng Cheng/, and Lidong Zhou \n
+  arXiv 2025.
+
 . [https://arxiv.org/abs/2501.14170 *Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models*] \n
   Yile Gu, Yifan Xiong, Jonathan Mace, Yuting Jiang, Yigong Hu, Baris Kasikci, and /Peng Cheng/ \n
   arXiv 2025.
