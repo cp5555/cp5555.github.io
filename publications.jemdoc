@@ -3,6 +3,10 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [publications.html *Virtual Machine NUMA Placement at Scale: Learning the Norm, Shielding the Tail*] \n
+  Yibo Zhao, Tianyuan Wu, Hui Xue, Qi Chen, Zhenhua Han, Zikai Xu, Yuntai Chang, Rui Gao, Steve Deng. Jui-Hao Chiang, Mingxia Li, Yuqing Yang, Cheng Tan, Fan Yang, /Peng Cheng/, Yongqiang Xiong, Lili Qiu, and Lidong Zhou \n
+  MLSys 2026. *(To Appear)*
+
 . [https://arxiv.org/abs/2506.01481 *TSGuard: Automated User-Centric Incident Diagnosis for AI Workloads in the Cloud*] \n
   Yitao Yang, Yangtao Deng, Yifan Xiong, Baochun Li, Hong Xu, and /Peng Cheng/ \n
   FSE 2026. *(To Appear)*
