@@ -26,6 +26,7 @@ My research interests are in the broad areas of *systems and networking, cloud a
 - AI for Cloud and AI Infrastructure
 
 == News
+- *2026/02.* [index.html CoddSpeed] got accepted at SIGMOD 2026.
 - *2026/01.* [index.html Catur] got accepted at MLSys 2026.
 - *2025/12.* [https://arxiv.org/abs/2506.01481 TSGuard] got accepted at FSE 2026.
 - *2025/12.* SIGMA-V2 \[[https://arxiv.org/abs/2512.13488 Infrastructure], [https://arxiv.org/abs/2512.16248 Tiny Model], [https://github.com/microsoft/LuciaTrainingPlatform Code]\] has been released on Arxiv.
@@ -63,6 +64,7 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - *2022/04.* [publications/moneo-icc22.pdf Moneo] got accepted at ICC 2022 and OSR 2022.
 
 == Selected Papers ([publications.html Full List])
+- [index.html SIGMOD'26] CoddSpeed: Hardware Accelerated Query Processing in Microsoft Fabric
 - [index.html MLSys'26] Virtual Machine NUMA Placement at Scale: Learning the Norm, Shielding the Tail
 - [https://arxiv.org/abs/2506.01481 FSE'26] TSGuard: Automated User-Centric Incident Diagnosis for AI Workloads in the Cloud
 - [index.html NSDI'26] SmartNIC-Enabled Live Migration for Storage-Optimized VMs with PYROCUMULUS

@@ -3,6 +3,10 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [publications.html *CoddSpeed: Hardware Accelerated Query Processing in Microsoft Fabric*] \n
+  Matteo Interlandi, Nicolas Bruno, Brandon Haynes, Carlo Curino, Rathijit Sen, Yinan Li, Kaushik Rajan, Bailu Ding, Lukas Maas, Wei Tsui, Kevin Gaffney, Mingsheng Hong, Brian Kroth, Sampath Rajenda, /Peng Cheng/, Surajit Chaudhuri, Johannes Gehrke, Raghu Ramakrishnan, Lidong Zhou, Momin Al-Ghosien, Craig Peeper, Marius Dumitru, Conor Cunningham, Kevin Bocksrocker, Prasanna Sundar, Ron Boskovic, YongChul Kwon, Marko Zivanovic, Runbin Shi, Krystian Sakowski, Denis Lamtsov, Josep Aguilar Saborit, Krish Srinivasan, Adarsh Kapil, Andrew Putnam, Anudeep Kambapu, Aparna Konduri, Aaron Landy, Aaron Moore, Aaron Pitman, Artem Oks, Ashit Gosalia, Babu Kandimalla, Blake Pelton, Bogdan Crivat, Cesar Galindo-Legaria, Chidamber Kulkarni, Esteban Calvo, Evgeny Babin, Hans Lehnert Marino, Igor Konev, Israel Arroyo, Jesus Camacho Rodriguez, Luis Penaranda, Mandar Datar, Morten Borup Petersen, Nicholas Simmons, Parminder Poonian, Pravija Danda, Rob Rydberg, Ronak Bajaj, Sai Sumanth Kammal Shetty, Sharanya Bhat, and Zach Iracheta \n
+  ACM SIGMOD 2026. *(To Appear)*
+
 . [publications.html *Virtual Machine NUMA Placement at Scale: Learning the Norm, Shielding the Tail*] \n
   Yibo Zhao, Tianyuan Wu, Hui Xue, Qi Chen, Zhenhua Han, Zikai Xu, Yuntai Chang, Rui Gao, Steve Deng. Jui-Hao Chiang, Mingxia Li, Yuqing Yang, Cheng Tan, Fan Yang, /Peng Cheng/, Yongqiang Xiong, Lili Qiu, and Lidong Zhou \n
   MLSys 2026. *(To Appear)*
@@ -271,9 +275,13 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   NeurIPS 2019 Workshop on Machine Learning for Systems (Poster).
 
 == Patents
+. [https://patentimages.storage.googleapis.com/7e/7a/24/a0b2f5cb418a5d/US20240169463A1.pdf *Techniques for accelerating queries using multiple graphics processing units*] \n
+  Yifan Xiong, Changho Hwang, Wei Cui, Yang Ziyue, Ze Liu, Han Hu, Zilong Wang, Rafael Omar Salas, Jithin Jose, Ram Prabhat, Ho-Yuen Chau, /Peng Cheng/, Fan Yang, Yang Mao, Yongqiang Xiong \n
+  US Patent App. 18/054,451, 2024/05/23.
+
 . [https://patentimages.storage.googleapis.com/7e/7a/24/a0b2f5cb418a5d/US20240169463A1.pdf *Mixture-of-experts layer with dynamic gating*] \n
   Yifan Xiong, Changho Hwang, Wei Cui, Yang Ziyue, Ze Liu, Han Hu, Zilong Wang, Rafael Omar Salas, Jithin Jose, Ram Prabhat, Ho-Yuen Chau, /Peng Cheng/, Fan Yang, Yang Mao, Yongqiang Xiong \n
-  US Patent App. 18/054,451, 2024/05/16.
+  US Patent App. 18/054,451, 2024/05/23.
   
 . [https://patentimages.storage.googleapis.com/a5/9a/6e/1f4103b41821a0/US20240160894A1.pdf *Mixture-of-experts layer with switchable parallel modes*] \n
   Yifan Xiong, Changho Hwang, Wei Cui, Yang Ziyue, Ze Liu, Han Hu, Zilong Wang, Rafael Omar Salas, Jithin Jose, Ram Prabhat, Ho-Yuen Chau, /Peng Cheng/, Fan Yang, Yang Mao, Yongqiang Xiong \n
@@ -282,6 +290,10 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
 . [https://patentimages.storage.googleapis.com/4e/ab/a5/fa1c644d31482b/US20240160906A1.pdf *Collective communication phases at mixture-of-experts layer*] \n
   Yifan Xiong, Changho Hwang, Wei Cui, Yang Ziyue, Ze Liu, Han Hu, Zilong Wang, Rafael Omar Salas, Jithin Jose, Ram Prabhat, Ho-Yuen Chau, /Peng Cheng/, Fan Yang, Yang Mao, Yongqiang Xiong \n
   US Patent App. 18/054,452, 2024/05/16.
+
+. [https://patentimages.storage.googleapis.com/27/ff/5b/54c029ae529d41/US11641665.pdf *Resource utilization retrieval and modification*] \n
+  Zhenhua Han, /Peng Cheng/, Fan Yang, Ran Shu, Yuqing Yang, Wei Zhang \n
+  US Patent 11,641,665, 2023/05/02.
 
 . [https://patentimages.storage.googleapis.com/c8/86/17/a5fa257e614e53/US11308024.pdf *Multi-path RDMA Transmission*] \n
   Guo Chen, Thomas Moscibroda, /Peng Cheng/, Yuanwei Lu, and Yongqiang Xiong \n
