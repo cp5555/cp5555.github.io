@@ -3,6 +3,10 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [https://arxiv.org/abs/2507.15640 *Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training*] \n
+  Kailai Yang, Xiao Liu, Lei Ji, Hao Li, Xiao Liang, Zhiwei Liu, Yeyun Gong, /Peng Cheng/, and Mao Yang \n
+  ACL 2026. *(To Appear)*
+  
 . [publications.html *CoddSpeed: Hardware Accelerated Query Processing in Microsoft Fabric*] \n
   Matteo Interlandi, Nicolas Bruno, Brandon Haynes, Carlo Curino, Rathijit Sen, Yinan Li, Kaushik Rajan, Bailu Ding, Lukas Maas, Wei Tsui, Kevin Gaffney, Mingsheng Hong, Brian Kroth, Sampath Rajenda, /Peng Cheng/, Surajit Chaudhuri, Johannes Gehrke, Raghu Ramakrishnan, Lidong Zhou, Momin Al-Ghosien, Craig Peeper, Marius Dumitru, Conor Cunningham, Kevin Bocksrocker, Prasanna Sundar, Ron Boskovic, YongChul Kwon, Marko Zivanovic, Runbin Shi, Krystian Sakowski, Denis Lamtsov, Josep Aguilar Saborit, Krish Srinivasan, Adarsh Kapil, Andrew Putnam, Anudeep Kambapu, Aparna Konduri, Aaron Landy, Aaron Moore, Aaron Pitman, Artem Oks, Ashit Gosalia, Babu Kandimalla, Blake Pelton, Bogdan Crivat, Cesar Galindo-Legaria, Chidamber Kulkarni, Esteban Calvo, Evgeny Babin, Hans Lehnert Marino, Igor Konev, Israel Arroyo, Jesus Camacho Rodriguez, Luis Penaranda, Mandar Datar, Morten Borup Petersen, Nicholas Simmons, Parminder Poonian, Pravija Danda, Rob Rydberg, Ronak Bajaj, Sai Sumanth Kammal Shetty, Sharanya Bhat, and Zach Iracheta \n
   ACM SIGMOD 2026. *(To Appear)*
@@ -21,7 +25,7 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
 
 . [https://arxiv.org/abs/2504.09014 *MSCCL\+\+: Rethinking GPU Communication Abstractions for AI Inference*] \n
   Aashaka Shah, Abhinav Jangda, Binyang Li, Caio Rocha, Changho Hwang, Jithin Jose, Madan Musuvathi, Mahdieh Ghazimirsaeed, Olli Saarikivi, /Peng Cheng/, Qinghua Zhou, Roshan Dathathri, Saeed Maleki, Sreevatsa Anantharamu, and Ziyue Yang \n
-  ASPLOS 2026. *(To Appear)*
+  ASPLOS 2026. *{{<font color="crimson">(Best Paper Honorable Mention)</font>}}*
 
 . [https://arxiv.org/abs/2411.14318 *Velocitune: A Velocity-based Dynamic Domain Reweighting Method for Continual Pre-training*] \n
   Zheheng Luo, Xin Zhang, Xiao Liu, Haoling Li, Yeyun Gong, Chen Qi, and /Peng Cheng/\n
@@ -312,6 +316,10 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   US Patent App. 16/442,819, 2020/12/17.
 
 == Preprints
+. [https://arxiv.org/abs/2602.01734 *MSign: An Optimizer Preventing Training Instability in Large Language Models via Stable Rank Restoration*] \n
+  Lianhai Ren, Yucheng Ding, Xiao Liu, Qianxiao Li, and /Peng Cheng/, Yeyun Gong \n
+  arXiv 2026.
+
 . [https://arxiv.org/abs/2603.05904 *LUMINA: LLM-Guided GPU Architecture Exploration via Bottleneck Analysis*] \n
   Tao Zhang, Rui Ma, Shuotao Xu, Yongqiang Xiong, and /Peng Cheng/ \n
   arXiv 2026.
