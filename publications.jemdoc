@@ -3,6 +3,14 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [https://arxiv.org/abs/2602.07457 *Pull Requests as a Training Signal for Repo-Level Code Editing*] \n
+  Qinglin Zhu, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, Xiangxiang Dai, Yulan He, Lin Gui, /Peng Cheng/, and Yeyun Gong \n
+  ICML 2026. *(To Appear)*
+
+. [https://arxiv.org/html/2510.08008v1 *Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts*] \n
+  Ruizhe Wang, Yucheng Ding, Xiao Liu, Yaoxiang Wang, /Peng Cheng/, Baining Guo, Zheng-Jun Zha, and Yeyun Gong, \n
+  ICML 2026. *(To Appear)*
+
 . [publications.html *SlimeMold: Scaling Distributed Hardware Load Balancers via a Unified Giant Connection Table*] \n
   Ziyuan Liu, Zhixiong Niu, Ran Shu, Jianqin Zhang, Guohong Lai, Liang Gao, Na Wang, Zongying He, Jacob Nelson, Dan R. K. Ports, Lihua Yuan, /Peng Cheng/, and Yongqiang Xiong \n
   ACM SoCC 2026. *(To Appear)*

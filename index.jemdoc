@@ -26,7 +26,9 @@ My research interests are in the broad areas of *systems and networking, cloud a
 - AI for Cloud and AI Infrastructure
 
 == News
-- *2026/05.* [index.html CoddSpeed] got received the *Best Industrial Paper* at [https://2026.sigmod.org/sigmod_awards.shtml SIGMOD 2026]!
+- *2026/05.* [https://arxiv.org/abs/2602.07457 Clean-PR] and [https://arxiv.org/html/2510.08008v1 Orthogonal Growth of MoE] got accepted at ICML 2026.
+- *2026/04.* [index.html CoddSpeed] got received the *Best Industrial Paper* at [https://2026.sigmod.org/sigmod_awards.shtml SIGMOD 2026]!
+- *2026/04.* [index.html SlimeMold] got accepted at SoCC 2026.
 - *2026/04.* [https://arxiv.org/abs/2507.15640 Data Mixing Agent] got accepted at ACL 2026.
 - *2026/03.* [https://arxiv.org/abs/2504.09014 MSCCL\+\+] received the *Best Paper Honorable Mention* at [https://www.asplos-conference.org/asplos2026/awards/ ASPLOS 2026]!
 - *2026/02.* [index.html CoddSpeed] got accepted at SIGMOD 2026.
@@ -67,6 +69,10 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - *2022/04.* [publications/moneo-icc22.pdf Moneo] got accepted at ICC 2022 and OSR 2022.
 
 == Selected Papers ([publications.html Full List])
+- [https://arxiv.org/abs/2602.07457 ICML'26] Pull Requests as a Training Signal for Repo-Level Code Editing
+- [https://arxiv.org/html/2510.08008v1 ICML'26] Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts
+- [index.html SoCC'26] SlimeMold: Scaling Distributed Hardware Load Balancers via a Unified Giant Connection Table
+- [https://arxiv.org/abs/2507.15640 ACL'26] Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training
 - [index.html SIGMOD'26] CoddSpeed: Hardware Accelerated Query Processing in Microsoft Fabric
 - [index.html MLSys'26] Virtual Machine NUMA Placement at Scale: Learning the Norm, Shielding the Tail
 - [https://arxiv.org/abs/2506.01481 FSE'26] TSGuard: Automated User-Centric Incident Diagnosis for AI Workloads in the Cloud
