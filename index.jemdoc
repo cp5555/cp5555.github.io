@@ -35,7 +35,7 @@ My research interests are in the broad areas of *systems and networking, cloud a
 - *2026/01.* [index.html Catur] got accepted at MLSys 2026.
 - *2025/12.* [https://arxiv.org/abs/2506.01481 TSGuard] got accepted at FSE 2026.
 - *2025/12.* SIGMA-V2 \[[https://arxiv.org/abs/2512.13488 Infrastructure], [https://arxiv.org/abs/2512.16248 Tiny Model], [https://github.com/microsoft/LuciaTrainingPlatform Code]\] has been released on Arxiv.
-- *2025/12.* [index.html PYROCUMULUS] got accepted at NSDI 2026.
+- *2025/12.* [https://www.usenix.org/system/files/nsdi26-zhao-jiechen.pdf PYROCUMULUS] got accepted at NSDI 2026.
 - *2025/11.* [https://arxiv.org/abs/2511.10753 FengHuang], next-generation memory orchestration for AI inferencing, has been released on Arxiv.
 - *2025/11.* [https://arxiv.org/abs/2504.09014 MSCCL\+\+] got accepted at ASPLOS 2026.
 - *2025/05.* [https://arxiv.org/abs/2411.14318 Velocitune] got accepted at ACL 2025.
@@ -76,7 +76,7 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - [index.html SIGMOD'26] CoddSpeed: Hardware Accelerated Query Processing in Microsoft Fabric
 - [index.html MLSys'26] Virtual Machine NUMA Placement at Scale: Learning the Norm, Shielding the Tail
 - [https://arxiv.org/abs/2506.01481 FSE'26] TSGuard: Automated User-Centric Incident Diagnosis for AI Workloads in the Cloud
-- [index.html NSDI'26] SmartNIC-Enabled Live Migration for Storage-Optimized VMs with PYROCUMULUS
+- [https://www.usenix.org/system/files/nsdi26-zhao-jiechen.pdf NSDI'26] SmartNIC-Enabled Live Migration for Storage-Optimized VMs with PYROCUMULUS
 - [https://arxiv.org/abs/2504.09014 ASPLOS'26] MSCCL\+\+: Rethinking GPU Communication Abstractions for AI Inference
 - [https://arxiv.org/abs/2501.17116 ICML'25] Optimizing Large Language Model Training Using FP4 Quantization
 - [https://arxiv.org/abs/2410.01556 ICLR'25] Integrative Decoding: Improve Factuality via Implicit Self-consistency
