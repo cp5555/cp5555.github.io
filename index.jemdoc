@@ -26,6 +26,7 @@ My research interests are in the broad areas of *systems and networking, cloud a
 - AI for Cloud and AI Infrastructure
 
 == News
+- *2026/05.* [index.html TQP\+\+] got accepted at VLDB 2026 Industry Track.
 - *2026/05.* [https://arxiv.org/abs/2602.07457 Clean-PR] and [https://arxiv.org/html/2510.08008v1 Orthogonal Growth of MoE] got accepted at ICML 2026.
 - *2026/04.* [index.html CoddSpeed] got received the *Best Industrial Paper* at [https://2026.sigmod.org/sigmod_awards.shtml SIGMOD 2026]!
 - *2026/04.* [index.html SlimeMold] got accepted at SoCC 2026.
@@ -69,6 +70,7 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - *2022/04.* [publications/moneo-icc22.pdf Moneo] got accepted at ICC 2022 and OSR 2022.
 
 == Selected Papers ([publications.html Full List])
+- [index.html VLDB'26] TQP\+\+: Leveraging AI-native Compilation for Query Processing
 - [https://arxiv.org/abs/2602.07457 ICML'26] Pull Requests as a Training Signal for Repo-Level Code Editing
 - [https://arxiv.org/html/2510.08008v1 ICML'26] Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts
 - [index.html SoCC'26] SlimeMold: Scaling Distributed Hardware Load Balancers via a Unified Giant Connection Table
