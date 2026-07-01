@@ -28,12 +28,12 @@ My research interests are in the broad areas of *systems and networking, cloud a
 == News
 - *2026/05.* [index.html TQP\+\+] got accepted at VLDB 2026 Industry Track.
 - *2026/05.* [https://arxiv.org/abs/2602.07457 Clean-PR] and [https://arxiv.org/html/2510.08008v1 Orthogonal Growth of MoE] got accepted at ICML 2026.
-- *2026/04.* [index.html CoddSpeed] got received the *Best Industrial Paper* at [https://2026.sigmod.org/sigmod_awards.shtml SIGMOD 2026]!
+- *2026/04.* [https://www.microsoft.com/en-us/research/publication/coddspeed-hardware-accelerated-query-processing-in-microsoft-fabric/?msockid=05f45282500b68810235445a51266977 CoddSpeed] got received the *Best Industrial Paper* at [https://2026.sigmod.org/sigmod_awards.shtml SIGMOD 2026]!
 - *2026/04.* [index.html SlimeMold] got accepted at SoCC 2026.
 - *2026/04.* [https://arxiv.org/abs/2507.15640 Data Mixing Agent] got accepted at ACL 2026.
 - *2026/03.* [https://arxiv.org/abs/2504.09014 MSCCL\+\+] received the *Best Paper Honorable Mention* at [https://www.asplos-conference.org/asplos2026/awards/ ASPLOS 2026]!
-- *2026/02.* [index.html CoddSpeed] got accepted at SIGMOD 2026.
-- *2026/01.* [index.html Catur] got accepted at MLSys 2026.
+- *2026/02.* [https://www.microsoft.com/en-us/research/publication/coddspeed-hardware-accelerated-query-processing-in-microsoft-fabric/?msockid=05f45282500b68810235445a51266977 CoddSpeed] got accepted at SIGMOD 2026.
+- *2026/01.* [https://openreview.net/forum?id=guCUThRvX5 Catur] got accepted at MLSys 2026.
 - *2025/12.* [https://arxiv.org/abs/2506.01481 TSGuard] got accepted at FSE 2026.
 - *2025/12.* SIGMA-V2 \[[https://arxiv.org/abs/2512.13488 Infrastructure], [https://arxiv.org/abs/2512.16248 Tiny Model], [https://github.com/microsoft/LuciaTrainingPlatform Code]\] has been released on Arxiv.
 - *2025/12.* [https://www.usenix.org/system/files/nsdi26-zhao-jiechen.pdf PYROCUMULUS] got accepted at NSDI 2026.
@@ -75,8 +75,8 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - [https://arxiv.org/html/2510.08008v1 ICML'26] Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts
 - [index.html SoCC'26] SlimeMold: Scaling Distributed Hardware Load Balancers via a Unified Giant Connection Table
 - [https://arxiv.org/abs/2507.15640 ACL'26] Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training
-- [index.html SIGMOD'26] CoddSpeed: Hardware Accelerated Query Processing in Microsoft Fabric
-- [index.html MLSys'26] Virtual Machine NUMA Placement at Scale: Learning the Norm, Shielding the Tail
+- [https://www.microsoft.com/en-us/research/publication/coddspeed-hardware-accelerated-query-processing-in-microsoft-fabric/?msockid=05f45282500b68810235445a51266977 SIGMOD'26] CoddSpeed: Hardware Accelerated Query Processing in Microsoft Fabric
+- [https://openreview.net/forum?id=guCUThRvX5 MLSys'26] Virtual Machine NUMA Placement at Scale: Learning the Norm, Shielding the Tail
 - [https://arxiv.org/abs/2506.01481 FSE'26] TSGuard: Automated User-Centric Incident Diagnosis for AI Workloads in the Cloud
 - [https://www.usenix.org/system/files/nsdi26-zhao-jiechen.pdf NSDI'26] SmartNIC-Enabled Live Migration for Storage-Optimized VMs with PYROCUMULUS
 - [https://arxiv.org/abs/2504.09014 ASPLOS'26] MSCCL\+\+: Rethinking GPU Communication Abstractions for AI Inference
