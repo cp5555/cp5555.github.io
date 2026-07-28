@@ -3,6 +3,14 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [publications.html *Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging*] \n
+  Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, /Peng Cheng/, Qinglin Zhu, Yibo He, Yingjie Fu, Wenpin Jiao, Wei Yang, and Tao Xie \n
+  ASE 2026. *(To Appear)*
+
+. [publications.html *Scalable and Efficient Simulation of LLM Training*] \n
+  Yicheng Feng, Kin Hang Sew, Yuetao Chen, Kaiwen Chen, Jingzong Li, Tianyuan Wu, Zheng Zhou, /Peng Cheng/, Chuan Wu, Wei Wang, Tsung-Yi Ho, and Hong Xu \n
+  SC 2026 (Industry Track). *(To Appear)*
+
 . [publications.html *TQP\+\+: Leveraging AI-native Compilation for Query Processing*] \n
   Wei Cui, /Peng Cheng/, Carlo Curino, Rathijit Sen, and Matteo Interlandi \n
   VLDB 2026 (Industry Track). *(To Appear)*
