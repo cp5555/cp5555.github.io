@@ -11,25 +11,25 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   Yicheng Feng, Kin Hang Sew, Yuetao Chen, Kaiwen Chen, Jingzong Li, Tianyuan Wu, Zheng Zhou, /Peng Cheng/, Chuan Wu, Wei Wang, Tsung-Yi Ho, and Hong Xu \n
   SC 2026. *(To Appear)*
 
-. [publications.html *TQP\+\+: Leveraging AI-native Compilation for Query Processing*] \n
+. [https://www.microsoft.com/en-us/research/publication/tqp-bridging-ml-compilers-and-analytical-query-processing-on-gpus/ *TQP\+\+: Bridging ML Compilers and Analytical Query Processing on GPUs *] \n
   Wei Cui, /Peng Cheng/, Carlo Curino, Rathijit Sen, and Matteo Interlandi \n
   VLDB 2026 (Industry Track). *(To Appear)*
 
 . [https://arxiv.org/abs/2602.07457 *Pull Requests as a Training Signal for Repo-Level Code Editing*] \n
   Qinglin Zhu, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, Xiangxiang Dai, Yulan He, Lin Gui, /Peng Cheng/, and Yeyun Gong \n
-  ICML 2026. *(To Appear)*
+  ICML 2026.
 
 . [https://arxiv.org/html/2510.08008v1 *Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts*] \n
   Ruizhe Wang, Yucheng Ding, Xiao Liu, Yaoxiang Wang, /Peng Cheng/, Baining Guo, Zheng-Jun Zha, and Yeyun Gong, \n
-  ICML 2026. *(To Appear)*
+  ICML 2026.
 
-. [publications.html *SlimeMold: Scaling Distributed Hardware Load Balancers via a Unified Giant Connection Table*] \n
+. [https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/socc26-15-with-appendix-full.pdf *SlimeMold: Scaling Distributed Hardware Load Balancers via a Unified Giant Connection Table*] \n
   Ziyuan Liu, Zhixiong Niu, Ran Shu, Jianqin Zhang, Guohong Lai, Liang Gao, Na Wang, Zongying He, Jacob Nelson, Dan R. K. Ports, Lihua Yuan, /Peng Cheng/, and Yongqiang Xiong \n
   ACM SoCC 2026. *(To Appear)*
 
 . [https://arxiv.org/abs/2507.15640 *Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training*] \n
   Kailai Yang, Xiao Liu, Lei Ji, Hao Li, Xiao Liang, Zhiwei Liu, Yeyun Gong, /Peng Cheng/, and Mao Yang \n
-  ACL 2026. *(To Appear)*
+  ACL 2026.
 
 . [https://openreview.net/forum?id=guCUThRvX5 *Virtual Machine NUMA Placement at Scale: Learning the Norm, Shielding the Tail*] \n
   Yibo Zhao, Tianyuan Wu, Hui Xue, Qi Chen, Zhenhua Han, Zikai Xu, Yuntai Chang, Rui Gao, Steve Deng. Jui-Hao Chiang, Mingxia Li, Yuqing Yang, Cheng Tan, Fan Yang, /Peng Cheng/, Yongqiang Xiong, Lili Qiu, and Lidong Zhou \n
@@ -37,7 +37,7 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
 
 . [https://arxiv.org/abs/2506.01481 *TSGuard: Automated User-Centric Incident Diagnosis for AI Workloads in the Cloud*] \n
   Yitao Yang, Yangtao Deng, Yifan Xiong, Baochun Li, Hong Xu, and /Peng Cheng/ \n
-  FSE 2026. *(To Appear)*
+  FSE 2026.
 
 . [https://www.usenix.org/system/files/nsdi26-zhao-jiechen.pdf *SmartNIC-Enabled Live Migration for Storage-Optimized VMs with PYROCUMULUS*] \n
   Jiechen Zhao, Ran Shu, Lei Qu, Ziyue Yang, Rui Ma, Derek Chiou, Natalie Enright Jerger, /Peng Cheng/, and Yongqiang Xiong \n
@@ -188,9 +188,9 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
   IEEE ICCCN 2013.
 
 == Workshops
-. [publications.html *OptiFlow: Towards LLM-Driven Optimization of Collective Communication Algorithms*] \n
+. [https://dl.acm.org/doi/10.1145/3820441.3820452 *OptiFlow: Towards LLM-Driven Optimization of Collective Communication Algorithms*] \n
   Fei Long, Ziyue Yang, Kaihui Gao, Shuai Wang, Li Chen, Zhixiong Niu, Ran Shu, Wenxue Cheng, /Peng Cheng/, Yongqiang Xiong, and Dan Li \n
-  APNet 2026. *(To Appear)*
+  APNet 2026.
 
 . [https://dl.acm.org/doi/10.1145/3678015.3680487 *SmartNIC-enabled Live Migration for Storage Optimized VMs*] \n
   Jiechen Zhao, Ran Shu, Lei Qu, Ziyue Yang, Natalie Enright Jerger, Derek Chiou, /Peng Cheng/, and Yongqiang Xiong \n
