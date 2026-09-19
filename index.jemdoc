@@ -26,6 +26,7 @@ My research interests are in the broad areas of *systems and networking, cloud a
 - AI for Cloud and AI Infrastructure
 
 == News
+- *2026/09.* [https://arxiv.org/abs/2607.00466 ELDR] and [index.html OpenNetLab] got accepted at ATC 2026.
 - *2026/08.* [https://arxiv.org/abs/2509.26520 M-MoE], [https://arxiv.org/pdf/2510.18909 ODiS], and [https://arxiv.org/abs/2606.26669 SKILL-DISCO] got accepted at EMNLP 2026.
 - *2026/05.* [https://www.microsoft.com/en-us/research/publication/tqp-bridging-ml-compilers-and-analytical-query-processing-on-gpus/ TQP\+\+] got accepted at VLDB 2026 Industry Track.
 - *2026/05.* [https://arxiv.org/abs/2602.07457 Clean-PR] and [https://arxiv.org/html/2510.08008v1 Orthogonal Growth of MoE] got accepted at ICML 2026.
@@ -71,6 +72,8 @@ Distributed Deep Learning] received the *Best Paper Award* at [https://sites.goo
 - *2022/04.* [publications/moneo-icc22.pdf Moneo] got accepted at ICC 2022 and OSR 2022.
 
 == Selected Papers ([publications.html Full List])
+- [https://arxiv.org/abs/2607.00466 ATC'26] ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving
+- [index.html ATC'26] OpenNetLab: An Open Platform for AI-Based Bandwidth Estimation in Real-Time Communications
 - [https://www.microsoft.com/en-us/research/publication/tqp-bridging-ml-compilers-and-analytical-query-processing-on-gpus/ VLDB'26] TQP\+\+: Bridging ML Compilers and Analytical Query Processing on GPUs
 - [https://arxiv.org/abs/2602.07457 ICML'26] Pull Requests as a Training Signal for Repo-Level Code Editing
 - [https://arxiv.org/html/2510.08008v1 ICML'26] Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts

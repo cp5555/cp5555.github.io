@@ -3,21 +3,29 @@
 Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&hl=en Google Scholar] which summarizes the latest publications and citations.
 
 == Conferences
+. [https://arxiv.org/abs/2607.00466 *ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving*] \n
+  Sangjin Choi, Sukmin Cho, Yifan Xiong, Ziyue Yang, Youngjin Kwon, and /Peng Cheng/  \n
+  ATC 2026. *(To Appear)*
+
+. [publications.html *OpenNetLab: An Open Platform for AI-Based Bandwidth Estimation in Real-Time Communications*] \n
+  Wenxue Cheng, Jeongyoon Eo, Zhixiong Niu, Francis Y. Yan, Rui Gao, Ze Gan, Scott Inglis, Vishak Gopal, Byung-Gon Chun, Ran Shu, /Peng Cheng/, and Yongqiang Xiong  \n
+  ATC 2026. *(To Appear)*
+
 . [https://arxiv.org/abs/2509.26520 *Training Matryoshka Mixture-of-Experts for Elastic Inference-Time Expert Utilization*] \n
-  Yaoxiang Wang, Qingguo Hu, Yucheng Ding, Ruizhe Wang, Yeyun Gong, Jian Jiao, Yelong Shen, /Peng Cheng/, Jinsong Su  \n
+  Yaoxiang Wang, Qingguo Hu, Yucheng Ding, Ruizhe Wang, Yeyun Gong, Jian Jiao, Yelong Shen, /Peng Cheng/, and Jinsong Su  \n
   EMNLP 2026 Main Conference. *(To Appear)*
 
 . [https://arxiv.org/pdf/2510.18909 *Learning from the Best, Differently: A Diversity-Driven Rethinking on Data Selection*] \n
-  Hongyi He, Xiao Liu, Zhenghao Lin, Mingni Tang, Yi Cheng, Jintao Wang, Wenjie Li, /Peng Cheng/, Yeyun Gong \n
+  Hongyi He, Xiao Liu, Zhenghao Lin, Mingni Tang, Yi Cheng, Jintao Wang, Wenjie Li, /Peng Cheng/, and Yeyun Gong \n
   EMNLP 2026 Findings. *(To Appear)*  
 
 . [https://arxiv.org/abs/2606.26669 *SKILL-DISCO: Distilling and Compiling Agent Traces into Reusable Procedural Skills*] \n
-  Zhongxin Guo, Danrui Qi, Hanwen Gu, /Peng Cheng/, Yongqiang Xiong \n
+  Zhongxin Guo, Danrui Qi, Hanwen Gu, /Peng Cheng/, and Yongqiang Xiong \n
   EMNLP 2026 Findings. *(To Appear)*
 
 . [https://arxiv.org/abs/2602.03181 *Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging*] \n
   Ziyue Hua, Tianyu Chen, Yeyun Gong, Shuai Lu, /Peng Cheng/, Qinglin Zhu, Yibo He, Yingjie Fu, Wenpin Jiao, Wei Yang, and Tao Xie \n
-  ASE 2026. *(To Appear)*
+  ASE 2026.
 
 . [publications.html *Scalable and Efficient Simulation of LLM Training*] \n
   Yicheng Feng, Kin Hang Sew, Yuetao Chen, Kaiwen Chen, Jingzong Li, Tianyuan Wu, Zheng Zhou, /Peng Cheng/, Chuan Wu, Wei Wang, Tsung-Yi Ho, and Hong Xu \n
@@ -25,7 +33,7 @@ Here is the link to my [https://scholar.google.com/citations?user=o3nBaFIAAAAJ&h
 
 . [https://www.microsoft.com/en-us/research/publication/tqp-bridging-ml-compilers-and-analytical-query-processing-on-gpus/ *TQP\+\+: Bridging ML Compilers and Analytical Query Processing on GPUs *] \n
   Wei Cui, /Peng Cheng/, Carlo Curino, Rathijit Sen, and Matteo Interlandi \n
-  VLDB 2026 (Industry Track). *(To Appear)*
+  VLDB 2026 (Industry Track).
 
 . [https://arxiv.org/abs/2602.07457 *Pull Requests as a Training Signal for Repo-Level Code Editing*] \n
   Qinglin Zhu, Tianyu Chen, Shuai Lu, Lei Ji, Runcong Zhao, Murong Ma, Xiangxiang Dai, Yulan He, Lin Gui, /Peng Cheng/, and Yeyun Gong \n
